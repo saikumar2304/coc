@@ -1,4 +1,4 @@
-import { CardType, EffectType } from '../constants/cardTypes.js';
+import { CardType, EffectType } from "../constants/cardTypes.js";
 
 export const cards = [
   // Attack + Heal Cards (Hybrid)
@@ -8,11 +8,11 @@ export const cards = [
     type: CardType.HYBRID,
     effects: [
       { type: EffectType.DAMAGE, value: 20 },
-      { type: EffectType.HEAL, value: 15 }
+      { type: EffectType.HEAL, value: 15 },
     ],
     description: "Deal 20 damage and recover 15 HP",
     imageUrl: "vampire-strike.png",
-    rarity: "common"
+    rarity: "common",
   },
   {
     id: 2,
@@ -20,11 +20,11 @@ export const cards = [
     type: CardType.HYBRID,
     effects: [
       { type: EffectType.DAMAGE, value: 25 },
-      { type: EffectType.HEAL, value: 10 }
+      { type: EffectType.HEAL, value: 10 },
     ],
     description: "Deal 25 damage and recover 10 HP",
     imageUrl: "blazing-slash.png",
-    rarity: "common"
+    rarity: "common",
   },
   {
     id: 3,
@@ -32,11 +32,11 @@ export const cards = [
     type: CardType.HYBRID,
     effects: [
       { type: EffectType.DAMAGE, value: 15 },
-      { type: EffectType.HEAL, value: 20 }
+      { type: EffectType.HEAL, value: 20 },
     ],
     description: "Deal 15 damage and recover 20 HP",
     imageUrl: "radiant-blow.png",
-    rarity: "common"
+    rarity: "common",
   },
   {
     id: 4,
@@ -44,11 +44,11 @@ export const cards = [
     type: CardType.HYBRID,
     effects: [
       { type: EffectType.DAMAGE, value: 30 },
-      { type: EffectType.HEAL, value: 15 }
+      { type: EffectType.HEAL, value: 15 },
     ],
     description: "Deal 30 damage and recover 15 HP",
     imageUrl: "shadow-fang.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 5,
@@ -56,11 +56,11 @@ export const cards = [
     type: CardType.HYBRID,
     effects: [
       { type: EffectType.DAMAGE, value: 35 },
-      { type: EffectType.HEAL, value: 25 }
+      { type: EffectType.HEAL, value: 25 },
     ],
     description: "Deal 35 damage and recover 25 HP",
     imageUrl: "dragons-bite.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   // Pure Attack Cards
   {
@@ -69,33 +69,29 @@ export const cards = [
     type: CardType.ATTACK,
     effects: [
       { type: EffectType.DAMAGE, value: 35 },
-      { type: EffectType.DRAW, value: 1 }
+      // { type: EffectType.DRAW, value: 1 },
     ],
-    description: "Deal 35 damage and draw a card",
+    description: "Deal 35 damage",
     imageUrl: "lightning-strike.png",
-    rarity: "common"
+    rarity: "common",
   },
   {
     id: 7,
     name: "Inferno Blast",
     type: CardType.ATTACK,
-    effects: [
-      { type: EffectType.DAMAGE, value: 45 }
-    ],
+    effects: [{ type: EffectType.DAMAGE, value: 45 }],
     description: "Deal 45 damage",
     imageUrl: "inferno-blast.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 8,
     name: "Meteor Strike",
     type: CardType.ATTACK,
-    effects: [
-      { type: EffectType.DAMAGE, value: 50 }
-    ],
+    effects: [{ type: EffectType.DAMAGE, value: 50 }],
     description: "Deal 50 damage",
     imageUrl: "meteor-strike.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 9,
@@ -103,11 +99,11 @@ export const cards = [
     type: CardType.ATTACK,
     effects: [
       { type: EffectType.DAMAGE, value: 30 },
-      { type: EffectType.DISABLE_HEALING, value: 1 }
+      { type: EffectType.DISABLE_HEALING, value: 1 },
     ],
     description: "Deal 30 damage and disable healing for 1 turn",
     imageUrl: "thunder-bolt.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 10,
@@ -115,45 +111,39 @@ export const cards = [
     type: CardType.ATTACK,
     effects: [
       { type: EffectType.DAMAGE, value: 25 },
-      { type: EffectType.WEAKEN, value: 10 }
+      { type: EffectType.WEAKEN, value: 10 },
     ],
     description: "Deal 25 damage and weaken next attack by 10",
     imageUrl: "ice-shard.png",
-    rarity: "common"
+    rarity: "common",
   },
   // Pure Healing Cards
   {
     id: 11,
     name: "Minor Heal",
     type: CardType.HEAL,
-    effects: [
-      { type: EffectType.HEAL, value: 25 }
-    ],
+    effects: [{ type: EffectType.HEAL, value: 25 }],
     description: "Recover 25 HP",
     imageUrl: "minor-heal.png",
-    rarity: "common"
+    rarity: "common",
   },
   {
     id: 12,
     name: "Greater Heal",
     type: CardType.HEAL,
-    effects: [
-      { type: EffectType.HEAL, value: 35 }
-    ],
+    effects: [{ type: EffectType.HEAL, value: 35 }],
     description: "Recover 35 HP",
     imageUrl: "greater-heal.png",
-    rarity: "common"
+    rarity: "common",
   },
   {
     id: 13,
     name: "Holy Light",
     type: CardType.HEAL,
-    effects: [
-      { type: EffectType.HEAL, value: 45 }
-    ],
+    effects: [{ type: EffectType.HEAL, value: 45 }],
     description: "Recover 45 HP",
     imageUrl: "holy-light.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 14,
@@ -161,11 +151,11 @@ export const cards = [
     type: CardType.HEAL,
     effects: [
       { type: EffectType.HEAL, value: 30 },
-      { type: EffectType.IMMUNITY, value: 1 }
+      { type: EffectType.IMMUNITY, value: 1 },
     ],
     description: "Recover 30 HP and gain immunity for 1 turn",
     imageUrl: "divine-blessing.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 15,
@@ -173,67 +163,57 @@ export const cards = [
     type: CardType.HEAL,
     effects: [
       { type: EffectType.HEAL, value: 20 },
-      { type: EffectType.DRAW, value: 1 }
+      // { type: EffectType.DRAW, value: 1 },
     ],
     description: "Recover 20 HP and draw a card",
     imageUrl: "natures-touch.png",
-    rarity: "common"
+    rarity: "common",
   },
   // Special Effect Cards
   {
     id: 16,
     name: "Shield Wall",
     type: CardType.SPECIAL,
-    effects: [
-      { type: EffectType.IMMUNITY, value: 1 }
-    ],
+    effects: [{ type: EffectType.IMMUNITY, value: 1 }],
     description: "Gain immunity for 1 turn",
     imageUrl: "shield-wall.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 17,
     name: "Life Drain",
     type: CardType.SPECIAL,
-    effects: [
-      { type: EffectType.DRAIN, value: 25 }
-    ],
+    effects: [{ type: EffectType.DRAIN, value: 25 }],
     description: "Drain 25 HP from target",
     imageUrl: "life-drain.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 18,
     name: "Time Warp",
     type: CardType.SPECIAL,
-    effects: [
-      { type: EffectType.EXTRA_TURN, value: 1 }
-    ],
+    effects: [{ type: EffectType.EXTRA_TURN, value: 1 }],
     description: "Take an extra turn",
     imageUrl: "time-warp.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 19,
     name: "Mirror Shield",
     type: CardType.SPECIAL,
-    effects: [
-      { type: EffectType.REFLECT, value: 1 }
-    ],
+    effects: [{ type: EffectType.REFLECT, value: 1 }],
     description: "Reflect next attack back to attacker",
     imageUrl: "mirror-shield.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 20,
     name: "Energy Boost",
     type: CardType.SPECIAL,
-    effects: [
-      { type: EffectType.BOOST_NEXT, value: 15 }
-    ],
+    effects: [{ type: EffectType.BOOST_NEXT, value: 15 }],
     description: "Boost next attack by 15 damage",
     imageUrl: "energy-boost.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   // Chaos Cards
   {
@@ -242,33 +222,29 @@ export const cards = [
     type: CardType.CHAOS,
     effects: [
       { type: EffectType.DAMAGE, value: 50 },
-      { type: EffectType.SELF_DAMAGE, value: 20 }
+      { type: EffectType.SELF_DAMAGE, value: 20 },
     ],
     description: "Deal 50 damage but take 20 damage yourself",
     imageUrl: "chaos-surge.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 22,
     name: "Health Exchange",
     type: CardType.CHAOS,
-    effects: [
-      { type: EffectType.SWAP_HEALTH, value: 1 }
-    ],
+    effects: [{ type: EffectType.SWAP_HEALTH, value: 1 }],
     description: "Swap HP with target",
     imageUrl: "health-exchange.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 23,
     name: "Wild Magic",
     type: CardType.CHAOS,
-    effects: [
-      { type: EffectType.MASS_DAMAGE, value: 20 }
-    ],
+    effects: [{ type: EffectType.MASS_DAMAGE, value: 20 }],
     description: "Deal 20 damage to all players (including yourself)",
     imageUrl: "wild-magic.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 24,
@@ -277,11 +253,11 @@ export const cards = [
     effects: [
       { type: EffectType.DAMAGE, value: 40 },
       { type: EffectType.SELF_DAMAGE, value: 10 },
-      { type: EffectType.DRAW, value: 2 }
+      // { type: EffectType.DRAW, value: 2 },
     ],
-    description: "Deal 40 damage, take 10 damage, draw 2 cards",
+    description: "Deal 40 damage, take 10 damage",
     imageUrl: "dark-pact.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 25,
@@ -289,11 +265,11 @@ export const cards = [
     type: CardType.CHAOS,
     effects: [
       { type: EffectType.DAMAGE, value: 35 },
-      { type: EffectType.MASS_DAMAGE, value: 15 }
+      { type: EffectType.MASS_DAMAGE, value: 15, exclude: "target" },
     ],
     description: "Deal 35 damage to target and 15 to all players",
     imageUrl: "unstable-power.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   // Combo Cards
   {
@@ -302,11 +278,11 @@ export const cards = [
     type: CardType.ATTACK,
     effects: [
       { type: EffectType.DAMAGE, value: 20 },
-      { type: EffectType.EXTRA_TURN, value: 1 }
+      { type: EffectType.EXTRA_TURN, value: 1 },
     ],
     description: "Deal 20 damage and take another turn",
     imageUrl: "double-strike.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 27,
@@ -314,11 +290,11 @@ export const cards = [
     type: CardType.ATTACK,
     effects: [
       { type: EffectType.DAMAGE, value: 30 },
-      { type: EffectType.MULTI_TARGET, value: 15 }
+      { type: EffectType.MULTI_TARGET, value: 15 },
     ],
     description: "Deal 30 damage to target and 15 to next player",
     imageUrl: "chain-lightning.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 28,
@@ -326,22 +302,20 @@ export const cards = [
     type: CardType.SPECIAL,
     effects: [
       { type: EffectType.DRAIN, value: 20 },
-      { type: EffectType.ALLY_HEAL, value: 10 }
+      // { type: EffectType.ALLY_HEAL, value: 10 },
     ],
     description: "Drain 20 HP and heal previous player for 10",
     imageUrl: "soul-link.png",
-    rarity: "uncommon"
+    rarity: "uncommon",
   },
   {
     id: 29,
     name: "Judgment",
     type: CardType.SPECIAL,
-    effects: [
-      { type: EffectType.JUDGMENT, value: 1 }
-    ],
-    description: "Instantly defeat target if their HP is below 20 or above 80",
+    effects: [{ type: EffectType.JUDGMENT, above: 400, below: 40 }],
+    description: "Instantly defeat target if their HP is below 40 or above 400",
     imageUrl: "judgment.png",
-    rarity: "rare"
+    rarity: "rare",
   },
   {
     id: 30,
@@ -349,27 +323,30 @@ export const cards = [
     type: CardType.SPECIAL,
     effects: [
       { type: EffectType.MASS_HEAL, value: 15 },
-      { type: EffectType.MASS_DAMAGE, value: 15 }
+      { type: EffectType.MASS_DAMAGE, value: 15 },
     ],
     description: "Deal 15 damage and heal all players for 15",
     imageUrl: "balance.png",
-    rarity: "rare"
-  }
+    rarity: "rare",
+  },
 ];
 
 // Adjusted rarity distribution for better game balance
 export const getRandomCard = () => {
   const randomValue = Math.random();
   let rarityPool;
-  
-  if (randomValue < 0.65) { // 65% chance for common
-    rarityPool = cards.filter(card => card.rarity === 'common');
-  } else if (randomValue < 0.90) { // 25% chance for uncommon
-    rarityPool = cards.filter(card => card.rarity === 'uncommon');
-  } else { // 10% chance for rare
-    rarityPool = cards.filter(card => card.rarity === 'rare');
+
+  if (randomValue < 0.65) {
+    // 65% chance for common
+    rarityPool = cards.filter((card) => card.rarity === "common");
+  } else if (randomValue < 0.9) {
+    // 25% chance for uncommon
+    rarityPool = cards.filter((card) => card.rarity === "uncommon");
+  } else {
+    // 10% chance for rare
+    rarityPool = cards.filter((card) => card.rarity === "rare");
   }
-  
+
   const randomIndex = Math.floor(Math.random() * rarityPool.length);
   return { ...rarityPool[randomIndex] };
 };

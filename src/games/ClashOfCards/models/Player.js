@@ -127,8 +127,4 @@ export class Player {
     this.health = newHealth;
     return { oldHealth, updatedHealth: this.health };
   }
-
-  getHealth() {
-    return this.health;
-  }
 }

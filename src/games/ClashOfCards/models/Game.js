@@ -182,7 +182,7 @@ export class Game {
           break;
 
         case "SWAP_HEALTH":
-          const playersHealth = player.swapHealth(target.getHealth());
+          const playersHealth = player.swapHealth(target.health);
           const targetHealth = target.swapHealth(playersHealth.oldHealth);
           message += `\n🔄 Swapped health! ${player.user.username} now has ${playersHealth.updatedHealth} health, while ${target.user.username} now has ${targetHealth.updatedHealth} health.`;
           logger.debug("Applied swapHealth effect", {
@@ -191,6 +191,109 @@ export class Game {
           });
           break;
 
+        case "SELF_DAMAGE":
+          const selfDamage = player.takeDamage(effect.value);
+          message += `\n🗡️ Dealt ${selfDamage} damage to yourself!`;
+          logger.debug("Applied Self damage effect", {
+            damage: selfDamage,
+            targetHealth: target.health,
+          });
+          break;
+
+        case "JUDGMENT":
+          if (target.health > effect.above || target.health < effect.below) {
+            target.swapHealth(0);
+            message += `\n⚖️ ${target.user.username} was judged unworthy and defeated instantly!`;
+            logger.info("Judgment effect applied", {
+              targetId: target.user.id,
+              oldHealth,
+              newHealth: target.health,
+            });
+          } else {
+            message += `\n⚖️ ${target.user.username} survived the judgment!`;
+            logger.debug("Judgment effect didnt applied", {
+              targetId: target.user.id,
+              targetHealth: target.health,
+            });
+          }
+          break;
+
+        case "DRAIN":
+          const damageDealt = target.takeDamage(effect.value);
+          const healthRestored = player.heal(damageDealt);
+          message += `\n🌙 Drained ${damageDealt} health from ${target.user.username}, restoring ${healthRestored} health to yourself!`;
+          logger.debug("Drain effect applied", {
+            damageDealt,
+            healthRestored,
+            targetId: target.user.id,
+            targetHealth: target.health,
+            playerId: player.user.id,
+            playerHealth: player.health,
+          });
+          break;
+
+        case "MASS_DAMAGE":
+          let totalMassDamage = 0;
+          for (const p of this.players.values()) {
+            if (
+              p.isAlive &&
+              !(
+                (effect?.exclude === "player" &&
+                  p.user.id === player.user.id) ||
+                (effect?.exclude === "target" && p.user.id === target.user.id)
+              )
+            ) {
+              const damageDealt = p.takeDamage(effect.value);
+              totalMassDamage += damageDealt;
+              logger.debug("Mass damage applied", {
+                playerId: p.user.id,
+                damageDealt,
+                remainingHealth: p.health,
+              });
+            }
+          }
+
+          const excludeText =
+            effect?.exclude === "player"
+              ? ` except ${player.user.username}`
+              : effect?.exclude === "target"
+              ? ` except ${target.user.username}`
+              : "";
+
+          message += `\n🔥 Mass Damage dealt ${effect.value} damage to all players${excludeText}! (Total damage: ${totalMassDamage})`;
+          break;
+
+        case "MASS_HEAL":
+          for (const p of this.players.values()) {
+            if (p.isAlive) {
+              const healedAmount = p.heal(effect.value);
+              logger.debug("Mass heal applied", {
+                playerId: p.user.id,
+                healedAmount,
+                newHealth: p.health,
+              });
+            }
+          }
+          message += `\n✨ Mass Heal restored ${effect.value} HP to all players!`;
+          break;
+
+        case "DISABLE_HEALING":
+          break;
+
+        case "IMMUNITY":
+          break;
+
+        case "EXTRA_TURN":
+          break;
+
+        case "REFLECT":
+          break;
+
+        case "BOOST_NEXT":
+          break;
+
+        case "MULTI_TARGET":
+          break;
         default:
           logger.debug("Unknown effect type", { type: effect.type });
           break;
