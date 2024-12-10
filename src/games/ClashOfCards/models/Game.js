@@ -12,6 +12,7 @@ export class Game {
     this.currentTurn = null;
     this.currentRound = null;
     this.playerOrder = [];
+    this.RoundEffects = [];
     logger.debug("Game instance created", { channelId });
   }
 
@@ -112,7 +113,12 @@ export class Game {
       throw new Error("No valid target available!");
     }
 
-    // Apply card effects
+    // Add Round Effects in cards effects
+    if (this.RoundEffects.length > 0) {
+      card.effects = [...this.RoundEffects, ...card.effects];
+      this.RoundEffects = [];
+    }
+
     const result = this.applyCardEffects(card, player, nextPlayer);
 
     // Draw a new card automatically
@@ -204,7 +210,7 @@ export class Game {
           if (target.health > effect.above || target.health < effect.below) {
             target.swapHealth(0);
             message += `\n⚖️ ${target.user.username} was judged unworthy and defeated instantly!`;
-            logger.info("Judgment effect applied", {
+            logger.debug("Judgment effect applied", {
               targetId: target.user.id,
               oldHealth,
               newHealth: target.health,
@@ -293,7 +299,30 @@ export class Game {
           break;
 
         case "MULTI_TARGET":
+          if (effect?.DamageNextRound) {
+            //  add to round effects
+            this.RoundEffects.push({
+              type: effect.type,
+              value: effect.value,
+              damageReason: effect.damageReason.replace(
+                "{playerName}",
+                `${player.user.username}'s`
+              ),
+            });
+          } else {
+            const damageDealt = target.takeDamage(effect.value);
+            message += `\n🔥 ${effect.damageReason
+              .replace("{target}", target.user.username)
+              .replace("{damage}", damageDealt)}!`;
+
+            logger.debug("Multi Target Damaged applied", {
+              playerId: target.id,
+              damageDealt,
+              newHealth: target.health,
+            });
+          }
           break;
+
         default:
           logger.debug("Unknown effect type", { type: effect.type });
           break;

@@ -290,7 +290,13 @@ export const cards = [
     type: CardType.ATTACK,
     effects: [
       { type: EffectType.DAMAGE, value: 30 },
-      { type: EffectType.MULTI_TARGET, value: 15 },
+      {
+        type: EffectType.MULTI_TARGET,
+        value: 15,
+        DamageNextRound: true,
+        damageReason:
+          "{playerName} Chain Lightning strikes, dealing {damage} damage to {target}!",
+      },
     ],
     description: "Deal 30 damage to target and 15 to next player",
     imageUrl: "chain-lightning.png",
