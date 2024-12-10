@@ -1,8 +1,8 @@
-import { Client, GatewayIntentBits, Collection } from 'discord.js';
-import { config } from 'dotenv';
-import { commands } from './commands/index.js';
-import { handleButton } from './games/ClashOfCards/handlers/buttonHandler.js';
-import { logger } from './utils/logger.js';
+import { Client, GatewayIntentBits, Collection } from "discord.js";
+import { config } from "dotenv";
+import { commands } from "./commands/index.js";
+import { handleButton } from "./games/ClashOfCards/handlers/buttonHandler.js";
+import { logger } from "./utils/logger.js";
 
 // Load environment variables
 config();
@@ -14,7 +14,7 @@ const client = new Client({
     GatewayIntentBits.GuildMessages,
     GatewayIntentBits.MessageContent,
     GatewayIntentBits.GuildMembers,
-  ]
+  ],
 });
 
 // Store commands in client for easy access
@@ -24,12 +24,12 @@ for (const [name, command] of commands) {
 }
 
 // Command handler
-client.on('messageCreate', async (message) => {
+client.on("messageCreate", async (message) => {
   // Ignore messages from bots
   if (message.author.bot) return;
 
   // Check for command prefix
-  const prefix = '!';
+  const prefix = "!";
   if (!message.content.startsWith(prefix)) return;
 
   // Parse command and arguments
@@ -45,46 +45,46 @@ client.on('messageCreate', async (message) => {
       user: message.author.tag,
       guild: message.guild?.name,
       channel: message.channel.name,
-      args
+      args,
     });
 
     await command.execute(message, args);
   } catch (error) {
     logger.error(`Error executing command: ${commandName}`, error);
-    await message.reply('There was an error executing that command!');
+    await message.reply("There was an error executing that command!");
   }
 });
 
 // Button interaction handler
-client.on('interactionCreate', async (interaction) => {
+client.on("interactionCreate", async (interaction) => {
   if (interaction.isButton()) {
     try {
       await handleButton(interaction);
     } catch (error) {
-      logger.error('Error handling button interaction', error);
+      logger.error("Error handling button interaction", error);
       await interaction.reply({
-        content: 'There was an error processing your interaction!',
-        ephemeral: true
+        content: "There was an error processing your interaction!",
+        ephemeral: true,
       });
     }
   }
 });
 
 // Ready event handler
-client.once('ready', () => {
-  logger.info('Bot is ready!', {
+client.once("ready", () => {
+  logger.info("Bot is ready!", {
     username: client.user.tag,
-    guilds: client.guilds.cache.size
+    guilds: client.guilds.cache.size,
   });
 });
 
 // Error handler
-client.on('error', (error) => {
-  logger.error('Discord client error:', error);
+client.on("error", (error) => {
+  logger.error("Discord client error:", error);
 });
 
 // Login
 client.login(process.env.DISCORD_TOKEN).catch((error) => {
-  logger.error('Failed to login:', error);
+  logger.error("Failed to login:", error);
   process.exit(1);
 });
