@@ -210,7 +210,7 @@ export const cards = [
     id: 20,
     name: "Energy Boost",
     type: CardType.SPECIAL,
-    effects: [{ type: EffectType.BOOST_NEXT, value: 15 }],
+    effects: [{ type: EffectType.BOOST_NEXT, value: 15, boost: "ATTACK" }],
     description: "Boost next attack by 15 damage",
     imageUrl: "energy-boost.png",
     rarity: "uncommon",

@@ -1,5 +1,4 @@
 import { GameConfig } from "../constants/gameConfig.js";
-import { Player } from "./Player.js";
 import { Round } from "./Round.js";
 import { getRandomCard } from "../data/cards.js";
 import { logger } from "../../../utils/logger.js";
@@ -146,7 +145,7 @@ export class Game {
       return { ...result, gameOver: true, winner };
     }
 
-    return { ...result, gameOver: false };
+    return { ...result, gameOver: false, nextTurn };
   }
 
   applyCardEffects(card, player, target) {
@@ -161,12 +160,31 @@ export class Game {
     for (const effect of card.effects) {
       switch (effect.type) {
         case "DAMAGE":
-          const damage = target.takeDamage(effect.value);
-          message += `\n🗡️ Dealt ${damage} damage to ${target.user.username}!`;
-          logger.debug("Applied damage effect", {
-            damage,
-            targetHealth: target.health,
-          });
+          const damage = target.takeDamage(
+            player.calculateBoostedDamage(effect.value)
+          );
+          // has immunity active
+          if (damage?.immunity) {
+            message += `\n🛡️ ${target.user.username} blocked all damage with IMMUNITY!`;
+          }
+          // has reflect
+          else if (damage?.reflect) {
+            const damageToPlayer = player.takeDamage(effect.value, ["REFLECT"]);
+            // if player also had immunity
+            if (damageToPlayer?.immunity) {
+              message += `\n🛡️ ${player.user.username} blocked all reflected damage with IMMUNITY!`;
+            }
+            // if no immunity
+            else {
+              message += `\n🛡️🗡️ ${target.user.username} reflected ${damageToPlayer.damage} damage back to ${player.user.username}!`;
+            }
+          } else {
+            message += `\n🗡️ Dealt ${damage.damage} damage to ${target.user.username}!`;
+            logger.debug("Applied damage effect", {
+              damage,
+              targetHealth: target.health,
+            });
+          }
           break;
 
         case "HEAL":
@@ -284,18 +302,12 @@ export class Game {
           break;
 
         case "DISABLE_HEALING":
+          target.addEffect(effect.type);
           break;
 
         case "IMMUNITY":
-          break;
-
-        case "EXTRA_TURN":
-          break;
-
         case "REFLECT":
-          break;
-
-        case "BOOST_NEXT":
+          player.addEffect(effect.type);
           break;
 
         case "MULTI_TARGET":
@@ -320,6 +332,27 @@ export class Game {
               damageDealt,
               newHealth: target.health,
             });
+          }
+          break;
+
+        case "EXTRA_TURN":
+          // TODO : FIX
+          const currentIndex = this.playerOrder.indexOf(this.currentTurn);
+          const nextIndex = (currentIndex + 1) % this.playerOrder.length;
+          this.playerOrder.splice(nextIndex, 0, this.currentTurn);
+          message += `\n⚡ ${player.user.username} will get another turn!`;
+          logger.debug("Extra turn granted", {
+            playerId: player.user.id,
+            currentTurn: this.currentTurn,
+            updatedOrder: this.playerOrder,
+          });
+          break;
+
+        case "BOOST_NEXT":
+          if (effect.boost === "ATTACK") {
+            player.applyDamageBoost(effect.value);
+          } else {
+            // TODO : healing Boost
           }
           break;
 

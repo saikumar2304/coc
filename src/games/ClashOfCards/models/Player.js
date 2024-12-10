@@ -8,6 +8,7 @@ export class Player {
     this.hand = [];
     this.isAlive = true;
     this.activeEffects = new Map();
+    this.damageBoost = 0;
 
     logger.debug("Player instance created", {
       userId: discordUser.id,
@@ -15,13 +16,24 @@ export class Player {
     });
   }
 
-  takeDamage(amount) {
-    if (this.activeEffects.has("IMMUNITY")) {
+  takeDamage(amount, ignoreEffects = []) {
+    if (
+      !ignoreEffects.includes("IMMUNITY") &&
+      this.activeEffects.has("IMMUNITY")
+    ) {
+      this.activeEffects.delete("IMMUNITY");
       logger.debug("Damage blocked by immunity", {
         playerId: this.user.id,
         damageAmount: amount,
       });
-      return 0;
+      return { damage: 0, immunity: true };
+    }
+
+    if (
+      !ignoreEffects.includes("REFLECT") &&
+      this.activeEffects.has("REFLECT")
+    ) {
+      return { reflect: true };
     }
 
     const actualDamage = Math.min(this.health, amount);
@@ -38,11 +50,12 @@ export class Player {
       logger.info("Player defeated", { playerId: this.user.id });
     }
 
-    return actualDamage;
+    return { damage: actualDamage };
   }
 
   heal(amount) {
     if (this.activeEffects.has("DISABLE_HEALING")) {
+      this.activeEffects.delete("DISABLE_HEALING");
       logger.debug("Healing blocked by effect", {
         playerId: this.user.id,
         healAmount: amount,
@@ -94,13 +107,29 @@ export class Player {
     return null;
   }
 
-  addEffect(effect, duration) {
-    this.activeEffects.set(effect, duration);
+  addEffect(effect) {
+    this.activeEffects.set(effect, true);
     logger.debug("Effect added to player", {
       playerId: this.user.id,
       effect,
-      duration,
     });
+  }
+
+  applyDamageBoost(boostAmount) {
+    this.damageBoost += boostAmount;
+    logger.debug("Damage boost applied", {
+      playerId: this.user.id,
+      boostAmount: this.damageBoost,
+    });
+  }
+
+  calculateBoostedDamage(damage) {
+    if (this.damageBoost > 0) {
+      this.damageBoost = 0;
+      return damage + this.damageBoost;
+    } else {
+      return damage;
+    }
   }
 
   updateEffects() {
