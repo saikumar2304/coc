@@ -1,0 +1,10 @@
+export const GameConfig = {
+  MAX_PLAYERS: 20,
+  MIN_PLAYERS: 2,
+  STARTING_HEALTH: 200,
+  MAX_HEALTH: 500,
+  HAND_SIZE: 8,
+  NORMAL_ROUND_TIME: 120000, // 2 minutes
+  ACCELERATED_ROUND_TIME: 30000, // 30 seconds
+  JOIN_PHASE_TIME: 60000, // 1 minute
+};

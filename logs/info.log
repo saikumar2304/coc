@@ -1,0 +1,1872 @@
+[2024-12-09T17:59:46.591Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T17:59:46.595Z] [INFO] Created category directory
+{
+  "category": "attack",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack"
+}
+[2024-12-09T17:59:46.595Z] [INFO] Created category directory
+{
+  "category": "heal",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/heal"
+}
+[2024-12-09T17:59:46.595Z] [INFO] Created category directory
+{
+  "category": "hybrid",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid"
+}
+[2024-12-09T17:59:46.595Z] [INFO] Created category directory
+{
+  "category": "special",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/special"
+}
+[2024-12-09T17:59:46.596Z] [INFO] Created category directory
+{
+  "category": "chaos",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/chaos"
+}
+[2024-12-09T17:59:46.596Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
+[2024-12-09T17:59:48.281Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Bot#2264",
+  "guilds": 1
+}
+[2024-12-09T17:59:50.227Z] [INFO] Executing command: start
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T17:59:50.227Z] [INFO] Start command received
+{
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-09T17:59:50.228Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "purple_memer"
+}
+[2024-12-09T18:00:03.230Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:00:09.535Z] [INFO] Executing command: join
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:00:13.036Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:00:13.044Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 3,
+  "firstPlayer": "1063899809221709824"
+}
+[2024-12-09T18:00:44.189Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:00:54.083Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:01:10.148Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:01:43.235Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:01:49.607Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:02:05.941Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:02:33.963Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:02:40.609Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:02:54.623Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:03:24.858Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:03:38.170Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:09:06.404Z] [INFO] Executing command: help
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:09:25.361Z] [INFO] Executing command: hand
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:09:28.550Z] [INFO] Executing command: leaderboard
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:09:35.350Z] [INFO] Executing command: end
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:12:45.980Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "attack",
+    "thunder-bolt"
+  ]
+}
+[2024-12-09T18:12:45.983Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "attack",
+    "thunder-bolt"
+  ]
+}
+[2024-12-09T18:12:47.184Z] [INFO] Processing image
+{
+  "filename": "thunder-bolt.png",
+  "category": "attack",
+  "size": 329067,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack"
+}
+[2024-12-09T18:12:47.223Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack/thunder-bolt.png"
+}
+[2024-12-09T18:12:47.223Z] [INFO] Image upload successful
+{
+  "filename": "thunder-bolt.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack/thunder-bolt.png"
+}
+[2024-12-09T18:14:24.710Z] [INFO] Executing command: start
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:14:24.711Z] [INFO] Start command received
+{
+  "user": "maryisvtired",
+  "channel": "general"
+}
+[2024-12-09T18:14:30.723Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "hybrid",
+    "vampire-strike"
+  ]
+}
+[2024-12-09T18:14:30.724Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "hybrid",
+    "vampire-strike"
+  ]
+}
+[2024-12-09T18:14:31.682Z] [INFO] Processing image
+{
+  "filename": "vampire-strike.png",
+  "category": "hybrid",
+  "size": 328360,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid"
+}
+[2024-12-09T18:14:31.724Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/vampire-strike.png"
+}
+[2024-12-09T18:14:31.724Z] [INFO] Image upload successful
+{
+  "filename": "vampire-strike.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/vampire-strike.png"
+}
+[2024-12-09T18:14:48.876Z] [INFO] Executing command: end
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:14:53.977Z] [INFO] Executing command: end
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:15:14.472Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "hybrid",
+    "blazing-slash"
+  ]
+}
+[2024-12-09T18:15:14.474Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "hybrid",
+    "blazing-slash"
+  ]
+}
+[2024-12-09T18:15:16.424Z] [INFO] Processing image
+{
+  "filename": "blazing-slash.png",
+  "category": "hybrid",
+  "size": 384971,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid"
+}
+[2024-12-09T18:15:16.468Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/blazing-slash.png"
+}
+[2024-12-09T18:15:16.468Z] [INFO] Image upload successful
+{
+  "filename": "blazing-slash.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/blazing-slash.png"
+}
+[2024-12-09T18:16:00.272Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "hybrid",
+    "radiant-blow"
+  ]
+}
+[2024-12-09T18:16:00.274Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "hybrid",
+    "radiant-blow"
+  ]
+}
+[2024-12-09T18:16:01.132Z] [INFO] Processing image
+{
+  "filename": "radiant-blow.png",
+  "category": "hybrid",
+  "size": 409297,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid"
+}
+[2024-12-09T18:16:01.169Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/radiant-blow.png"
+}
+[2024-12-09T18:16:01.169Z] [INFO] Image upload successful
+{
+  "filename": "radiant-blow.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/radiant-blow.png"
+}
+[2024-12-09T18:16:43.038Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "hybrid",
+    "shadow-fang"
+  ]
+}
+[2024-12-09T18:16:43.040Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "hybrid",
+    "shadow-fang"
+  ]
+}
+[2024-12-09T18:16:43.629Z] [INFO] Processing image
+{
+  "filename": "shadow-fang.png",
+  "category": "hybrid",
+  "size": 320213,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid"
+}
+[2024-12-09T18:16:43.673Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/shadow-fang.png"
+}
+[2024-12-09T18:16:43.673Z] [INFO] Image upload successful
+{
+  "filename": "shadow-fang.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/shadow-fang.png"
+}
+[2024-12-09T18:17:17.907Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "hybrid",
+    "dragons-bite"
+  ]
+}
+[2024-12-09T18:17:17.909Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "hybrid",
+    "dragons-bite"
+  ]
+}
+[2024-12-09T18:17:18.469Z] [INFO] Processing image
+{
+  "filename": "dragons-bite.png",
+  "category": "hybrid",
+  "size": 206615,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid"
+}
+[2024-12-09T18:17:18.504Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/dragons-bite.png"
+}
+[2024-12-09T18:17:18.504Z] [INFO] Image upload successful
+{
+  "filename": "dragons-bite.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/hybrid/dragons-bite.png"
+}
+[2024-12-09T18:18:23.127Z] [INFO] Executing command: uploadimage
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "attack",
+    "lightning-strike"
+  ]
+}
+[2024-12-09T18:18:23.128Z] [INFO] Upload image command received
+{
+  "user": "purple_memer",
+  "args": [
+    "attack",
+    "lightning-strike"
+  ]
+}
+[2024-12-09T18:18:24.170Z] [INFO] Processing image
+{
+  "filename": "lightning-strike.png",
+  "category": "attack",
+  "size": 323994,
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack"
+}
+[2024-12-09T18:18:24.198Z] [INFO] Successfully saved image
+{
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack/lightning-strike.png"
+}
+[2024-12-09T18:18:24.198Z] [INFO] Image upload successful
+{
+  "filename": "lightning-strike.png",
+  "path": "/Users/saikumar/Downloads/project 54/public/images/cards/attack/lightning-strike.png"
+}
+[2024-12-09T18:19:04.813Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T18:19:04.815Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
+[2024-12-09T18:19:06.477Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Bot#2264",
+  "guilds": 1
+}
+[2024-12-09T18:19:11.333Z] [INFO] Executing command: start
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:19:11.334Z] [INFO] Start command received
+{
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-09T18:19:11.335Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "purple_memer"
+}
+[2024-12-09T18:19:14.003Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:19:20.129Z] [INFO] Executing command: join
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:19:22.587Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:19:22.601Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 3,
+  "firstPlayer": "398285502341578775"
+}
+[2024-12-09T18:19:34.161Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:19:39.581Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:19:42.172Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:19:54.569Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:20:14.401Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:20:24.703Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:20:40.720Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:20:56.926Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:21:33.863Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:21:39.174Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:22:24.923Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T18:22:24.925Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
+[2024-12-09T18:22:26.593Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Bot#2264",
+  "guilds": 1
+}
+[2024-12-09T18:24:26.027Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T18:24:26.030Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
+[2024-12-09T18:24:27.475Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Bot#2264",
+  "guilds": 1
+}
+[2024-12-09T18:24:41.637Z] [INFO] Executing command: start
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:24:41.639Z] [INFO] Start command received
+{
+  "user": "maryisvtired",
+  "channel": "general"
+}
+[2024-12-09T18:24:41.641Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "maryisvtired"
+}
+[2024-12-09T18:24:44.811Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:25:06.344Z] [INFO] Executing command: start
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:25:06.346Z] [INFO] Start command received
+{
+  "user": "maryisvtired",
+  "channel": "general"
+}
+[2024-12-09T18:25:14.543Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:25:19.948Z] [INFO] Executing command: begin
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:25:19.957Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 2,
+  "firstPlayer": "713221346863087666"
+}
+[2024-12-09T18:25:28.968Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:25:37.873Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:25:44.394Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:26:40.644Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:27:13.424Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:27:26.301Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:27:35.333Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:27:54.935Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:27:58.303Z] [INFO] Executing command: end
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:28:12.625Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:28:16.707Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:28:27.850Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:28:35.344Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:29:01.458Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:29:12.990Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:29:31.148Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:29:37.380Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:29:53.480Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:29:59.997Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:30:10.097Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:30:19.279Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:30:24.792Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:30:29.427Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:30:29.430Z] [INFO] Player defeated
+{
+  "playerId": "1063899809221709824"
+}
+[2024-12-09T18:30:29.432Z] [INFO] Game over
+{
+  "winner": "713221346863087666",
+  "finalHealth": 140
+}
+[2024-12-09T18:30:29.937Z] [INFO] Game over
+{
+  "winner": "blackmanofsteal",
+  "finalHealth": 140
+}
+[2024-12-09T18:30:48.976Z] [INFO] Executing command: start
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:30:48.977Z] [INFO] Start command received
+{
+  "user": "maryisvtired",
+  "channel": "general"
+}
+[2024-12-09T18:30:48.978Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "maryisvtired"
+}
+[2024-12-09T18:30:54.167Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:32:06.550Z] [INFO] Executing command: begin
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:32:06.562Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 2,
+  "firstPlayer": "713221346863087666"
+}
+[2024-12-09T18:32:32.505Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:32:43.561Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:33:02.188Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:33:13.434Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:33:18.385Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:33:29.736Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:33:36.788Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T18:33:36.790Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
+[2024-12-09T18:33:38.586Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Bot#2264",
+  "guilds": 1
+}
+[2024-12-09T18:33:50.110Z] [INFO] Executing command: end
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:34:07.209Z] [INFO] Executing command: start
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:34:07.211Z] [INFO] Start command received
+{
+  "user": "maryisvtired",
+  "channel": "general"
+}
+[2024-12-09T18:34:07.213Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "maryisvtired"
+}
+[2024-12-09T18:34:11.784Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:34:17.360Z] [INFO] Executing command: begin
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:34:17.375Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 2,
+  "firstPlayer": "1063899809221709824"
+}
+[2024-12-09T18:34:41.831Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:34:51.748Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:36:08.302Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:36:26.931Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:36:35.727Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:36:58.404Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:37:05.877Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:37:18.439Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:37:30.038Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:37:33.983Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:37:45.737Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:38:00.583Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:38:18.428Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:38:24.358Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:38:35.711Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:38:47.374Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:39:06.875Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:39:18.198Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:39:26.505Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:39:36.903Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:39:42.868Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:39:56.070Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:39:59.801Z] [INFO] Executing command: help
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:40:06.304Z] [INFO] Executing command: forceround
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:40:06.441Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:40:16.170Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:40:24.768Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:40:53.737Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:41:18.346Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:41:31.538Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:41:35.605Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:41:45.972Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:42:04.089Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:42:08.646Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:42:19.954Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:42:25.826Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:42:32.121Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:42:38.356Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:42:52.833Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:42:57.499Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:43:06.101Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:43:12.080Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:43:26.604Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:43:30.771Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:43:50.395Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:43:52.744Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:43:58.775Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:44:03.280Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:44:09.214Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:44:18.850Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:44:36.134Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:44:37.993Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:44:44.593Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:44:49.761Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:45:14.658Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:45:18.621Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:45:19.350Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-09T18:45:25.333Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:45:48.138Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:45:54.369Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:46:00.069Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:46:14.002Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-09T18:46:30.468Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-09T18:46:44.922Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-09T18:47:14.822Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:47:20.958Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:47:33.230Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:47:47.331Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-09T18:49:55.619Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:50:08.356Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:50:30.499Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-09T18:50:45.372Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-09T18:51:19.803Z] [INFO] Executing command: play
+{
+  "user": "maryisvtired",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-09T18:51:19.805Z] [INFO] Player defeated
+{
+  "playerId": "713221346863087666"
+}
+[2024-12-09T18:51:19.805Z] [INFO] Game over
+{
+  "winner": "1063899809221709824",
+  "finalHealth": 20
+}
+[2024-12-09T18:51:20.446Z] [INFO] Game over
+{
+  "winner": "maryisvtired",
+  "finalHealth": 20
+}
+[2024-12-09T18:51:28.445Z] [INFO] Executing command: leaderboard
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-09T18:53:41.123Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T18:53:41.126Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
+[2024-12-09T18:53:41.948Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-09T18:53:41.950Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage"
+  ]
+}
