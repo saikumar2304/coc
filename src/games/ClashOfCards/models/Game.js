@@ -145,7 +145,7 @@ export class Game {
       return { ...result, gameOver: true, winner };
     }
 
-    return { ...result, gameOver: false, nextTurn };
+    return { ...result, gameOver: false, nextPlayer, nextTurn };
   }
 
   applyCardEffects(card, player, target) {
@@ -341,19 +341,11 @@ export class Game {
           break;
 
         case "EXTRA_TURN":
-          // Add the extra turn at the end of current round
-          const currentIndex = this.playerOrder.indexOf(this.currentTurn);
-          const playerCount = this.playerOrder.length;
-          const insertIndex = (currentIndex + playerCount - 1) % playerCount;
-          
-          // Insert the extra turn before the player's next normal turn
-          this.playerOrder.splice(insertIndex, 0, this.currentTurn);
-          
-          message += `\n⚡ ${player.user.username} will get an extra turn before their next normal turn!`;
+          player.addEffect("EXTRA_TURN");
+          message += `\n⚡ ${player.user.username} will get an extra turn immediately after their current turn!`;
           logger.debug("Extra turn granted", {
             playerId: player.user.id,
             currentTurn: this.currentTurn,
-            updatedOrder: this.playerOrder,
           });
           break;
 
@@ -368,7 +360,7 @@ export class Game {
           logger.debug("Boost effect applied", {
             playerId: player.user.id,
             boostType: effect.boost,
-            value: effect.value
+            value: effect.value,
           });
           break;
 
@@ -382,6 +374,14 @@ export class Game {
   }
 
   nextTurn() {
+    const currentPlayer = this.players.get(this.currentTurn);
+
+    if (currentPlayer.hasEffect("EXTRA_TURN")) {
+      currentPlayer.removeEffect("EXTRA_TURN");
+      logger.debug("Extra turn activated", { playerId: currentPlayer.user.id });
+      return this.currentTurn;
+    }
+
     const currentIndex = this.playerOrder.indexOf(this.currentTurn);
     let nextIndex = (currentIndex + 1) % this.playerOrder.length;
 

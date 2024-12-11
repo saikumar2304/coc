@@ -87,11 +87,6 @@ export const play = {
         card: card,
       });
 
-      const nextPlayer = game.getNextAlivePlayer(player.user.id);
-      if (!nextPlayer) {
-        throw new Error("No valid target available!");
-      }
-
       const result = game.playCard(player, cardIndex);
       logger.debug("Card played successfully", { result });
 
@@ -116,11 +111,15 @@ export const play = {
         .setDescription(card.description)
         .addFields(
           { name: "👤 Player", value: player.user.username, inline: true },
-          { name: "🎯 Target", value: nextPlayer.user.username, inline: true },
+          {
+            name: "🎯 Target",
+            value: result.nextPlayer.user.username,
+            inline: true,
+          },
           { name: "❤️ Player Health", value: `${player.health}`, inline: true },
           {
             name: "💔 Target Health",
-            value: `${nextPlayer.health}`,
+            value: `${result.nextPlayer.health}`,
             inline: true,
           }
         );

@@ -156,16 +156,23 @@ export class Player {
     }
   }
 
-    swapHealth(newHealth) {
-      const oldHealth = this.health;
-      this.health = newHealth;
+  swapHealth(newHealth) {
+    const oldHealth = this.health;
+    this.health = newHealth;
 
+    if (this.health <= 0) {
+      this.isAlive = false;
+      logger.info("Player defeated", { playerId: this.user.id });
+    }
 
-  if (this.health <= 0) {
-        this.isAlive = false;
-        logger.info("Player defeated", { playerId: this.user.id });
-      }
+    return { oldHealth, updatedHealth: this.health };
+  }
 
-      return { oldHealth, updatedHealth: this.health };
+  removeEffect(effect) {
+    this.activeEffects.delete(effect);
+  }
+
+  hasEffect(effect) {
+    return this.activeEffects.has(effect);
   }
 }
