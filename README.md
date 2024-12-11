@@ -31,41 +31,51 @@ The game alternates between **Normal Rounds** (2 minutes per turn) and **Acceler
 
 ---
 
-🃏 Card Types
+**🃏 Card Types**
 
 **Attack + Heal Cards**
-Vampire Strike: Deal 15 damage and recover 10 HP.
-Radiant Blow: Deal 10 damage and recover 15 HP.
+
+- **Vampire Strike**: Deal 15 damage and recover 10 HP.
+- **Radiant Blow**: Deal 10 damage and recover 15 HP.
 
 **Healing Cards**
-Holy Light: Recover 40 HP.
-Rejuvenation: Fully restore your health to 100 (Rare Card).
+- **Holy Light**: Recover 40 HP.
+- **Rejuvenation**: Fully restore your health to 100 (Rare Card).
 
 **Special Power Cards**
-Rune Reverse: Reflect the next attack back to its sender.
-Judgment Strike: Instantly kill a target if their HP is below 30 or above 90.
+- **Rune Reverse**: Reflect the next attack back to its sender.
+- **Judgment Strike**: Instantly kill a target if their HP is below 30 or above 90.
 
 **Chaos Cards**
-Twist of Fate: Swap your health with another player’s.
-Wild Draw: Draw 3 cards but lose 15 HP.
+- **Twist of Fate**: Swap your health with another player’s.
+- **Wild Draw**: Draw 3 cards but lose 15 HP.
 
 
 For the full list of 30 cards and their effects, refer to the game files.
 
+---
+
 **🤝 Contributing**
 
-*Contributions are welcome! If you have ideas for new cards or features, feel free to:*
+- *Contributions are welcome! If you have ideas for new cards or features, feel free to:*
 
-Open an issue on GitHub.
-Submit a pull request.
+- Open an issue on GitHub.
+- Submit a pull request.
+
+---
 
 **🛡️ License**
 
-This project is licensed under the **MIT License.**
+- This project is licensed under the **MIT License.**
+
+---
 
 **💬 Support**
 
-*For support or questions, open an issue on GitHub or contact the project maintainers.*
+- *For support or questions, open an issue on GitHub or contact the project maintainers.*
+
+
+---
 
 
 
