@@ -33,7 +33,12 @@ export class Player {
       !ignoreEffects.includes("REFLECT") &&
       this.activeEffects.has("REFLECT")
     ) {
-      return { reflect: true };
+      this.activeEffects.delete("REFLECT");
+      logger.debug("Damage reflected", {
+        playerId: this.user.id,
+        damageAmount: amount,
+      });
+      return { damage: 0, reflect: true };
     }
 
     const actualDamage = Math.min(this.health, amount);

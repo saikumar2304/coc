@@ -216,10 +216,10 @@ export class Game {
           break;
 
         case "SELF_DAMAGE":
-          const selfDamage = player.takeDamage(effect.value);
-          message += `\n🗡️ Dealt ${selfDamage} damage to yourself!`;
+          const selfDamageResult = player.takeDamage(effect.value);
+          message += `\n🗡️ Dealt ${selfDamageResult.damage} damage to yourself!`;
           logger.debug("Applied Self damage effect", {
-            damage: selfDamage,
+            damage: selfDamageResult.damage,
             targetHealth: target.health,
           });
           break;
@@ -243,12 +243,18 @@ export class Game {
           break;
 
         case "DRAIN":
-          const damageDealt = target.takeDamage(effect.value);
-          const healthRestored = player.heal(damageDealt);
-          message += `\n🌙 Drained ${damageDealt} health from ${target.user.username}, restoring ${healthRestored} health to yourself!`;
+          const drainResult = target.takeDamage(effect.value);
+          if (drainResult?.immunity) {
+            message += `\n🛡️ ${target.user.username} blocked the drain with IMMUNITY!`;
+          } else if (drainResult?.reflect) {
+            const reflectDamage = player.takeDamage(effect.value, ["REFLECT"]);
+            message += `\n🛡️🗡️ ${target.user.username} reflected the drain back to ${player.user.username} for ${reflectDamage.damage} damage!`;
+          } else {
+            const healthRestored = player.heal(drainResult.damage);
+            message += `\n🌙 Drained ${drainResult.damage} health from ${target.user.username}, restoring ${healthRestored} health to yourself!`;
+          }
           logger.debug("Drain effect applied", {
-            damageDealt,
-            healthRestored,
+            drainResult,
             targetId: target.user.id,
             targetHealth: target.health,
             playerId: player.user.id,
@@ -267,11 +273,11 @@ export class Game {
                 (effect?.exclude === "target" && p.user.id === target.user.id)
               )
             ) {
-              const damageDealt = p.takeDamage(effect.value);
-              totalMassDamage += damageDealt;
+              const damageResult = p.takeDamage(effect.value);
+              totalMassDamage += damageResult.damage;
               logger.debug("Mass damage applied", {
                 playerId: p.user.id,
-                damageDealt,
+                damageDealt: damageResult.damage,
                 remainingHealth: p.health,
               });
             }
@@ -322,25 +328,29 @@ export class Game {
               ),
             });
           } else {
-            const damageDealt = target.takeDamage(effect.value);
+            const damageResult = target.takeDamage(effect.value);
             message += `\n🔥 ${effect.damageReason
               .replace("{target}", target.user.username)
-              .replace("{damage}", damageDealt)}!`;
+              .replace("{damage}", damageResult.damage)}!`;
 
             logger.debug("Multi Target Damaged applied", {
               playerId: target.id,
-              damageDealt,
+              damageDealt: damageResult.damage,
               newHealth: target.health,
             });
           }
           break;
 
         case "EXTRA_TURN":
-          // TODO : FIX
+          // Add the extra turn at the end of current round
           const currentIndex = this.playerOrder.indexOf(this.currentTurn);
-          const nextIndex = (currentIndex + 1) % this.playerOrder.length;
-          this.playerOrder.splice(nextIndex, 0, this.currentTurn);
-          message += `\n⚡ ${player.user.username} will get another turn!`;
+          const playerCount = this.playerOrder.length;
+          const insertIndex = (currentIndex + playerCount - 1) % playerCount;
+          
+          // Insert the extra turn before the player's next normal turn
+          this.playerOrder.splice(insertIndex, 0, this.currentTurn);
+          
+          message += `\n⚡ ${player.user.username} will get an extra turn before their next normal turn!`;
           logger.debug("Extra turn granted", {
             playerId: player.user.id,
             currentTurn: this.currentTurn,
@@ -350,10 +360,17 @@ export class Game {
 
         case "BOOST_NEXT":
           if (effect.boost === "ATTACK") {
-            player.applyDamageBoost(effect.value);
-          } else {
-            // TODO : healing Boost
+            player.addEffect("BOOST_DAMAGE", effect.value);
+            message += `\n💫 ${player.user.username}'s next attack will be boosted by ${effect.value} damage!`;
+          } else if (effect.boost === "HEALING") {
+            player.addEffect("BOOST_HEALING", effect.value);
+            message += `\n💫 ${player.user.username}'s next heal will be boosted by ${effect.value}%!`;
           }
+          logger.debug("Boost effect applied", {
+            playerId: player.user.id,
+            boostType: effect.boost,
+            value: effect.value
+          });
           break;
 
         default:
