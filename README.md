@@ -43,7 +43,9 @@ The game alternates between **Normal Rounds** (2 minutes per turn) and **Acceler
    git clone [https://github.com/yourusername/clash-of-cards.git](https://github.com/saikumar2304/coc.git)
    cd coc
 
-Install dependencies:
+Install dependencies and Run:
    ```bash
    npm install
    npm run dev  
+
+
