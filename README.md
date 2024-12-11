@@ -40,19 +40,10 @@ The game alternates between **Normal Rounds** (2 minutes per turn) and **Acceler
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clash-of-cards.git
-   cd clash-of-cards
+   git clone [https://github.com/yourusername/clash-of-cards.git](https://github.com/saikumar2304/coc.git)
+   cd coc
 
 Install dependencies:
-```bash
-npm install
-
-
-Configure your bot:
-Create a .env file in the root directory.
-Add your Discord bot token:
-DISCORD_BOT_TOKEN=your-bot-token
-Start the bot:
-node index.js
-
-  
+   ```bash
+   npm install
+   npm run dev  
