@@ -230,7 +230,6 @@ export class Game {
             message += `\n⚖️ ${target.user.username} was judged unworthy and defeated instantly!`;
             logger.debug("Judgment effect applied", {
               targetId: target.user.id,
-              oldHealth,
               newHealth: target.health,
             });
           } else {
