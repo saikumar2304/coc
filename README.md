@@ -40,7 +40,7 @@ The game alternates between **Normal Rounds** (2 minutes per turn) and **Acceler
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/clash-of-cards.git](https://github.com/saikumar2304/coc.git)
+   git clone https://github.com/saikumar2304/coc.git
    cd coc
 
 Install dependencies and Run:
