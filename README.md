@@ -91,9 +91,9 @@ For the full list of 30 cards and their effects, refer to the game files.
    git clone https://github.com/saikumar2304/coc.git
    cd coc
 
-Install dependencies and Run:
+2. Install dependencies and Run:
    ```bash
    npm install
    npm run dev  
 
-
+---
