@@ -1870,3 +1870,1328 @@
     "uploadimage"
   ]
 }
+[2024-12-11T04:24:48.284Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-11T04:24:48.287Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage",
+    "give"
+  ]
+}
+[2024-12-11T04:24:49.649Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Slave#2264",
+  "guilds": 1
+}
+[2024-12-11T04:24:56.773Z] [INFO] Executing command: start
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:24:56.774Z] [INFO] Start command received
+{
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:24:56.775Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "purple_memer"
+}
+[2024-12-11T04:25:55.661Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:26:01.216Z] [INFO] Executing command: join
+{
+  "user": "ihatetakisbruh",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:26:12.321Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:26:12.330Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 3,
+  "firstPlayer": "398285502341578775"
+}
+[2024-12-11T04:26:14.973Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Life",
+    "Drain"
+  ]
+}
+[2024-12-11T04:26:20.922Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:26:21.606Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:26:37.587Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:28:05.662Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-11T04:28:05.664Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage",
+    "give"
+  ]
+}
+[2024-12-11T04:28:07.027Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Slave#2264",
+  "guilds": 1
+}
+[2024-12-11T04:28:10.726Z] [INFO] Executing command: start
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:28:10.726Z] [INFO] Start command received
+{
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:28:10.728Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "purple_memer"
+}
+[2024-12-11T04:28:22.165Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:28:33.131Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:28:33.139Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 2,
+  "firstPlayer": "713221346863087666"
+}
+[2024-12-11T04:28:41.824Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Life",
+    "Drain"
+  ]
+}
+[2024-12-11T04:28:45.112Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:28:52.477Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:28:59.672Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:30:06.378Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-11T04:30:06.381Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage",
+    "give"
+  ]
+}
+[2024-12-11T04:30:07.923Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Slave#2264",
+  "guilds": 1
+}
+[2024-12-11T04:30:12.450Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:30:15.419Z] [INFO] Executing command: start
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:30:15.420Z] [INFO] Start command received
+{
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:30:15.422Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "purple_memer"
+}
+[2024-12-11T04:31:10.697Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:31:18.099Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:31:18.115Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 2,
+  "firstPlayer": "713221346863087666"
+}
+[2024-12-11T04:31:21.363Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Life",
+    "Drain"
+  ]
+}
+[2024-12-11T04:31:25.014Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T04:31:34.387Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:31:42.708Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Life",
+    "Drain"
+  ]
+}
+[2024-12-11T04:31:46.144Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:31:49.689Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:32:06.020Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T04:32:32.130Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Vampire",
+    "Strike"
+  ]
+}
+[2024-12-11T04:32:41.831Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:32:47.071Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Vampire",
+    "Strike"
+  ]
+}
+[2024-12-11T04:32:56.598Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:33:07.320Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:33:35.712Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:33:49.418Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:34:42.239Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Meteor",
+    "Strike"
+  ]
+}
+[2024-12-11T04:34:46.165Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:34:50.422Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:35:07.085Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:35:07.089Z] [INFO] IMAGE NOT FOUND
+{
+  "reason": "Image not found at /Users/saikumar/coc/public/images/cards/ATTACK/inferno-blast.png. Using default image."
+}
+[2024-12-11T04:35:26.010Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:37:11.346Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Mirror",
+    "Shield"
+  ]
+}
+[2024-12-11T04:37:15.177Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:37:28.208Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:37:45.968Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:38:00.300Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T04:38:07.725Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:38:46.484Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Energy",
+    "Boost"
+  ]
+}
+[2024-12-11T04:38:50.847Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:38:56.564Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:39:02.359Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:39:27.241Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Meteor",
+    "Strike"
+  ]
+}
+[2024-12-11T04:40:02.348Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:40:17.223Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:40:59.492Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Chaos",
+    "Surge"
+  ]
+}
+[2024-12-11T04:41:15.683Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:41:43.281Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:41:46.508Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:41:57.360Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:42:41.561Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Health",
+    "Exchange"
+  ]
+}
+[2024-12-11T04:42:55.935Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T04:43:37.656Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:44:11.496Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T04:44:28.707Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:44:42.757Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:44:42.760Z] [INFO] IMAGE NOT FOUND
+{
+  "reason": "Image not found at /Users/saikumar/coc/public/images/cards/ATTACK/chain-lightning.png. Using default image."
+}
+[2024-12-11T04:44:55.879Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-11T04:45:37.929Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:51:07.002Z] [INFO] Initializing ImageHandler
+{}
+[2024-12-11T04:51:07.006Z] [INFO] Initialized commands
+{
+  "availableCommands": [
+    "ping",
+    "help",
+    "kick",
+    "start",
+    "join",
+    "begin",
+    "play",
+    "players",
+    "quit",
+    "skip",
+    "roundinfo",
+    "hand",
+    "forceround",
+    "end",
+    "reset",
+    "leaderboard",
+    "achievements",
+    "uploadimage",
+    "give"
+  ]
+}
+[2024-12-11T04:51:08.669Z] [INFO] Bot is ready!
+{
+  "username": "Mary's Slave#2264",
+  "guilds": 1
+}
+[2024-12-11T04:51:12.780Z] [INFO] Executing command: start
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:51:12.780Z] [INFO] Start command received
+{
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:51:12.781Z] [INFO] Game created successfully
+{
+  "channelId": "1274954222009450508",
+  "firstPlayer": "purple_memer"
+}
+[2024-12-11T04:51:44.728Z] [INFO] Executing command: join
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:54:52.220Z] [INFO] Executing command: begin
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:54:52.227Z] [INFO] Game started
+{
+  "channelId": "1274954222009450508",
+  "playerCount": 2,
+  "firstPlayer": "398285502341578775"
+}
+[2024-12-11T04:54:55.366Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Divine",
+    "Blessing"
+  ]
+}
+[2024-12-11T04:55:00.002Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:55:08.246Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T04:55:19.966Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Divine",
+    "Blessing"
+  ]
+}
+[2024-12-11T04:55:23.038Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:55:30.515Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:55:30.519Z] [INFO] IMAGE NOT FOUND
+{
+  "reason": "Image not found at /Users/saikumar/coc/public/images/cards/ATTACK/inferno-blast.png. Using default image."
+}
+[2024-12-11T04:57:46.501Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T04:57:55.155Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-11T04:58:03.117Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:58:56.221Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Immunity\n[",
+    "]",
+    "Blocks",
+    "all",
+    "incoming",
+    "damage\n[",
+    "]",
+    "Gets",
+    "removed",
+    "after",
+    "blocking",
+    "damage\n[",
+    "]",
+    "Doesn't",
+    "block",
+    "self-damage\n[",
+    "]",
+    "Works",
+    "with",
+    "drain",
+    "effects"
+  ]
+}
+[2024-12-11T04:59:10.468Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Divine",
+    "Blessing"
+  ]
+}
+[2024-12-11T04:59:14.359Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:59:24.702Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:59:58.494Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:00:31.014Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Wild",
+    "Magic"
+  ]
+}
+[2024-12-11T05:00:35.612Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:00:40.722Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:00:49.627Z] [INFO] Executing command: players
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:01:04.013Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:02:07.081Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:02:13.357Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:02:27.281Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:02:50.955Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Health",
+    "Exchange"
+  ]
+}
+[2024-12-11T05:02:55.958Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:03:11.665Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:03:11.668Z] [INFO] IMAGE NOT FOUND
+{
+  "reason": "Image not found at /Users/saikumar/coc/public/images/cards/ATTACK/chain-lightning.png. Using default image."
+}
+[2024-12-11T05:03:28.007Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Dark",
+    "Pact"
+  ]
+}
+[2024-12-11T05:03:32.706Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:03:53.780Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:04:13.763Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T05:04:26.989Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-11T05:05:37.025Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:05:44.893Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:05:52.099Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:06:02.020Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T05:06:15.428Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:06:28.636Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:06:31.811Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-11T05:06:45.059Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:06:45.062Z] [INFO] IMAGE NOT FOUND
+{
+  "reason": "Image not found at /Users/saikumar/coc/public/images/cards/ATTACK/inferno-blast.png. Using default image."
+}
+[2024-12-11T05:06:49.636Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:08:06.415Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:08:07.237Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Lightning",
+    "Strike"
+  ]
+}
+[2024-12-11T05:08:11.116Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:08:20.355Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-11T05:08:27.145Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:08:57.443Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Judgment"
+  ]
+}
+[2024-12-11T05:09:01.861Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:09:20.351Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:09:38.376Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T05:09:50.251Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:10:00.325Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T05:10:12.200Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:10:36.674Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Blazing",
+    "Slash"
+  ]
+}
+[2024-12-11T05:10:43.848Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:10:53.255Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T05:11:01.369Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:11:22.410Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Meteor",
+    "Strike"
+  ]
+}
+[2024-12-11T05:11:27.181Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:11:37.337Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Judgement"
+  ]
+}
+[2024-12-11T05:11:41.055Z] [INFO] Executing command: play
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T05:11:46.069Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}
+[2024-12-11T05:11:51.832Z] [INFO] Executing command: give
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "Judgment"
+  ]
+}
+[2024-12-11T05:11:56.848Z] [INFO] Executing command: play
+{
+  "user": "purple_memer",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:12:35.551Z] [INFO] Executing command: players
+{
+  "user": "blackmanofsteal",
+  "guild": "Cheap Express",
+  "channel": "general",
+  "args": []
+}

@@ -14198,3 +14198,7367 @@
     "chaos"
   ]
 }
+[2024-12-11T04:24:48.286Z] [DEBUG] Creating directory structure
+{
+  "baseDir": "/Users/saikumar/coc/public/images/cards",
+  "categories": [
+    "attack",
+    "heal",
+    "hybrid",
+    "special",
+    "chaos"
+  ]
+}
+[2024-12-11T04:24:56.774Z] [DEBUG] Game instance created
+{
+  "channelId": "1274954222009450508"
+}
+[2024-12-11T04:24:56.775Z] [DEBUG] Player instance created
+{
+  "userId": "398285502341578775",
+  "startingHealth": 200
+}
+[2024-12-11T04:24:56.775Z] [DEBUG] Player added to game
+{
+  "playerId": "398285502341578775",
+  "playerCount": 1
+}
+[2024-12-11T04:25:55.662Z] [DEBUG] Player instance created
+{
+  "userId": "713221346863087666",
+  "startingHealth": 200
+}
+[2024-12-11T04:25:55.663Z] [DEBUG] Player added to game
+{
+  "playerId": "713221346863087666",
+  "playerCount": 2
+}
+[2024-12-11T04:26:01.216Z] [DEBUG] Player instance created
+{
+  "userId": "887544030609702943",
+  "startingHealth": 200
+}
+[2024-12-11T04:26:01.217Z] [DEBUG] Player added to game
+{
+  "playerId": "887544030609702943",
+  "playerCount": 3
+}
+[2024-12-11T04:26:12.322Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 1
+}
+[2024-12-11T04:26:12.322Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 1
+}
+[2024-12-11T04:26:12.322Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 2
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 2
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "handSize": 3
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "handSize": 3
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "handSize": 4
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "handSize": 4
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 5
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 5
+}
+[2024-12-11T04:26:12.323Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 6
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 6
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 7
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 7
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 1
+}
+[2024-12-11T04:26:12.324Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 1
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 2
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 2
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Energy Boost",
+  "handSize": 3
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Energy Boost",
+  "handSize": 3
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Thunder Bolt",
+  "handSize": 4
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Thunder Bolt",
+  "handSize": 4
+}
+[2024-12-11T04:26:12.325Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "handSize": 5
+}
+[2024-12-11T04:26:12.326Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "handSize": 5
+}
+[2024-12-11T04:26:12.326Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Thunder Bolt",
+  "handSize": 6
+}
+[2024-12-11T04:26:12.326Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Thunder Bolt",
+  "handSize": 6
+}
+[2024-12-11T04:26:12.326Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Shadow Fang",
+  "handSize": 7
+}
+[2024-12-11T04:26:12.327Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Shadow Fang",
+  "handSize": 7
+}
+[2024-12-11T04:26:12.327Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:26:12.327Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:26:12.327Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Greater Heal",
+  "handSize": 1
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Greater Heal",
+  "handSize": 1
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Thunder Bolt",
+  "handSize": 2
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Thunder Bolt",
+  "handSize": 2
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Double Strike",
+  "handSize": 3
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Double Strike",
+  "handSize": 3
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Blazing Slash",
+  "handSize": 4
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Blazing Slash",
+  "handSize": 4
+}
+[2024-12-11T04:26:12.328Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Shadow Fang",
+  "handSize": 5
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Shadow Fang",
+  "handSize": 5
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Radiant Blow",
+  "handSize": 6
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Radiant Blow",
+  "handSize": 6
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Radiant Blow",
+  "handSize": 7
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Radiant Blow",
+  "handSize": 7
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Card drawn
+{
+  "playerId": "887544030609702943",
+  "cardName": "Thunder Bolt",
+  "handSize": 8
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Dealt card to player
+{
+  "playerId": "887544030609702943",
+  "cardName": "Thunder Bolt",
+  "handSize": 8
+}
+[2024-12-11T04:26:12.329Z] [DEBUG] Shuffled player order
+{
+  "playerOrder": [
+    "398285502341578775",
+    "887544030609702943",
+    "713221346863087666"
+  ]
+}
+[2024-12-11T04:26:14.053Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:26:14.054Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:26:14.974Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:26:14.974Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:26:14.975Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "handSize": 8
+}
+[2024-12-11T04:26:14.975Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "newHandSize": 8
+}
+[2024-12-11T04:26:17.443Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:26:17.443Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:26:20.923Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:26:21.607Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:26:21.607Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 17,
+    "name": "Life Drain",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "DRAIN",
+        "value": 25
+      }
+    ],
+    "description": "Drain 25 HP from target",
+    "imageUrl": "life-drain.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:26:21.608Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "remainingCards": 7
+}
+[2024-12-11T04:26:21.608Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "remainingCards": 7
+}
+[2024-12-11T04:26:21.609Z] [DEBUG] Applying card effects
+{
+  "cardName": "Life Drain",
+  "playerId": "398285502341578775",
+  "targetId": "887544030609702943"
+}
+[2024-12-11T04:26:21.609Z] [DEBUG] Player took damage
+{
+  "playerId": "887544030609702943",
+  "damage": 25,
+  "remainingHealth": 175
+}
+[2024-12-11T04:26:21.609Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": null,
+  "newHealth": null
+}
+[2024-12-11T04:26:21.609Z] [DEBUG] Drain effect applied
+{
+  "damageDealt": {
+    "damage": 25
+  },
+  "healthRestored": null,
+  "targetId": "887544030609702943",
+  "targetHealth": 175,
+  "playerId": "398285502341578775",
+  "playerHealth": null
+}
+[2024-12-11T04:26:21.609Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:26:21.610Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:26:21.610Z] [DEBUG] Next turn
+{
+  "currentTurn": "887544030609702943"
+}
+[2024-12-11T04:26:21.610Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Life Drain!\n🌙 Drained [object Object] health from ihatetakisbruh, restoring NaN health to yourself!",
+    "gameOver": false,
+    "nextTurn": "887544030609702943"
+  }
+}
+[2024-12-11T04:26:23.178Z] [DEBUG] Next turn
+{
+  "player": "ihatetakisbruh"
+}
+[2024-12-11T04:26:27.784Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:26:27.785Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:28:05.664Z] [DEBUG] Creating directory structure
+{
+  "baseDir": "/Users/saikumar/coc/public/images/cards",
+  "categories": [
+    "attack",
+    "heal",
+    "hybrid",
+    "special",
+    "chaos"
+  ]
+}
+[2024-12-11T04:28:10.727Z] [DEBUG] Game instance created
+{
+  "channelId": "1274954222009450508"
+}
+[2024-12-11T04:28:10.727Z] [DEBUG] Player instance created
+{
+  "userId": "398285502341578775",
+  "startingHealth": 200
+}
+[2024-12-11T04:28:10.727Z] [DEBUG] Player added to game
+{
+  "playerId": "398285502341578775",
+  "playerCount": 1
+}
+[2024-12-11T04:28:22.166Z] [DEBUG] Player instance created
+{
+  "userId": "713221346863087666",
+  "startingHealth": 200
+}
+[2024-12-11T04:28:22.167Z] [DEBUG] Player added to game
+{
+  "playerId": "713221346863087666",
+  "playerCount": 2
+}
+[2024-12-11T04:28:33.133Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "handSize": 1
+}
+[2024-12-11T04:28:33.133Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "handSize": 1
+}
+[2024-12-11T04:28:33.133Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shadow Fang",
+  "handSize": 2
+}
+[2024-12-11T04:28:33.134Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shadow Fang",
+  "handSize": 2
+}
+[2024-12-11T04:28:33.134Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "handSize": 3
+}
+[2024-12-11T04:28:33.134Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "handSize": 3
+}
+[2024-12-11T04:28:33.134Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "handSize": 4
+}
+[2024-12-11T04:28:33.135Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "handSize": 4
+}
+[2024-12-11T04:28:33.135Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 5
+}
+[2024-12-11T04:28:33.135Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 5
+}
+[2024-12-11T04:28:33.135Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shield Wall",
+  "handSize": 6
+}
+[2024-12-11T04:28:33.135Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shield Wall",
+  "handSize": 6
+}
+[2024-12-11T04:28:33.135Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 7
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 7
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "handSize": 8
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "handSize": 8
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 1
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 1
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 2
+}
+[2024-12-11T04:28:33.136Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 2
+}
+[2024-12-11T04:28:33.137Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 3
+}
+[2024-12-11T04:28:33.137Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 3
+}
+[2024-12-11T04:28:33.137Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dragon's Bite",
+  "handSize": 4
+}
+[2024-12-11T04:28:33.138Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dragon's Bite",
+  "handSize": 4
+}
+[2024-12-11T04:28:33.138Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Wild Magic",
+  "handSize": 5
+}
+[2024-12-11T04:28:33.138Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Wild Magic",
+  "handSize": 5
+}
+[2024-12-11T04:28:33.138Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 6
+}
+[2024-12-11T04:28:33.138Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 6
+}
+[2024-12-11T04:28:33.138Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 7
+}
+[2024-12-11T04:28:33.139Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 7
+}
+[2024-12-11T04:28:33.139Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:28:33.139Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:28:33.139Z] [DEBUG] Shuffled player order
+{
+  "playerOrder": [
+    "713221346863087666",
+    "398285502341578775"
+  ]
+}
+[2024-12-11T04:28:41.334Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:28:41.334Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:28:41.825Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T04:28:41.825Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:28:41.826Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "handSize": 8
+}
+[2024-12-11T04:28:41.826Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "newHandSize": 8
+}
+[2024-12-11T04:28:44.591Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:28:44.592Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:28:45.114Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:28:45.114Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 3,
+  "card": {
+    "id": 5,
+    "name": "Dragon's Bite",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 35
+      },
+      {
+        "type": "HEAL",
+        "value": 25
+      }
+    ],
+    "description": "Deal 35 damage and recover 25 HP",
+    "imageUrl": "dragons-bite.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:28:45.115Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dragon's Bite",
+  "remainingCards": 7
+}
+[2024-12-11T04:28:45.115Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dragon's Bite",
+  "remainingCards": 7
+}
+[2024-12-11T04:28:45.115Z] [DEBUG] Applying card effects
+{
+  "cardName": "Dragon's Bite",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:28:45.116Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 35,
+  "remainingHealth": 165
+}
+[2024-12-11T04:28:45.116Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 35
+  },
+  "targetHealth": 165
+}
+[2024-12-11T04:28:45.116Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 25,
+  "newHealth": 225
+}
+[2024-12-11T04:28:45.116Z] [DEBUG] Applied healing effect
+{
+  "healing": 25,
+  "playerHealth": 225
+}
+[2024-12-11T04:28:45.116Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T04:28:45.117Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T04:28:45.117Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:28:45.117Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Dragon's Bite!\n🗡️ Dealt 35 damage to purple_memer!\n💚 Healed for 25 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:28:46.873Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:28:52.478Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:28:52.479Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 17,
+    "name": "Life Drain",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "DRAIN",
+        "value": 25
+      }
+    ],
+    "description": "Drain 25 HP from target",
+    "imageUrl": "life-drain.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:28:52.479Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "remainingCards": 7
+}
+[2024-12-11T04:28:52.479Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "remainingCards": 7
+}
+[2024-12-11T04:28:52.480Z] [DEBUG] Applying card effects
+{
+  "cardName": "Life Drain",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:28:52.480Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 200
+}
+[2024-12-11T04:28:52.480Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 25,
+  "newHealth": 190
+}
+[2024-12-11T04:28:52.480Z] [DEBUG] Drain effect applied
+{
+  "damageDealt": 25,
+  "healthRestored": 25,
+  "targetId": "713221346863087666",
+  "targetHealth": 200,
+  "playerId": "398285502341578775",
+  "playerHealth": 190
+}
+[2024-12-11T04:28:52.480Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:28:52.480Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:28:52.481Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:28:52.481Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Life Drain!\n🌙 Drained 25 health from blackmanofsteal, restoring 25 health to yourself!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:28:54.081Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:30:06.380Z] [DEBUG] Creating directory structure
+{
+  "baseDir": "/Users/saikumar/coc/public/images/cards",
+  "categories": [
+    "attack",
+    "heal",
+    "hybrid",
+    "special",
+    "chaos"
+  ]
+}
+[2024-12-11T04:30:15.420Z] [DEBUG] Game instance created
+{
+  "channelId": "1274954222009450508"
+}
+[2024-12-11T04:30:15.421Z] [DEBUG] Player instance created
+{
+  "userId": "398285502341578775",
+  "startingHealth": 200
+}
+[2024-12-11T04:30:15.422Z] [DEBUG] Player added to game
+{
+  "playerId": "398285502341578775",
+  "playerCount": 1
+}
+[2024-12-11T04:31:10.699Z] [DEBUG] Player instance created
+{
+  "userId": "713221346863087666",
+  "startingHealth": 200
+}
+[2024-12-11T04:31:10.700Z] [DEBUG] Player added to game
+{
+  "playerId": "713221346863087666",
+  "playerCount": 2
+}
+[2024-12-11T04:31:18.101Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "handSize": 1
+}
+[2024-12-11T04:31:18.102Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "handSize": 1
+}
+[2024-12-11T04:31:18.102Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 2
+}
+[2024-12-11T04:31:18.102Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 2
+}
+[2024-12-11T04:31:18.103Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 3
+}
+[2024-12-11T04:31:18.103Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 3
+}
+[2024-12-11T04:31:18.103Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 4
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "handSize": 4
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 5
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 5
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 6
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 6
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 7
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 7
+}
+[2024-12-11T04:31:18.104Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "handSize": 8
+}
+[2024-12-11T04:31:18.105Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "handSize": 8
+}
+[2024-12-11T04:31:18.105Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 1
+}
+[2024-12-11T04:31:18.105Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 1
+}
+[2024-12-11T04:31:18.105Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 2
+}
+[2024-12-11T04:31:18.105Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 2
+}
+[2024-12-11T04:31:18.106Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "handSize": 3
+}
+[2024-12-11T04:31:18.106Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "handSize": 3
+}
+[2024-12-11T04:31:18.106Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 4
+}
+[2024-12-11T04:31:18.106Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 4
+}
+[2024-12-11T04:31:18.114Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 5
+}
+[2024-12-11T04:31:18.114Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 5
+}
+[2024-12-11T04:31:18.114Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 6
+}
+[2024-12-11T04:31:18.115Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 6
+}
+[2024-12-11T04:31:18.115Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Double Strike",
+  "handSize": 7
+}
+[2024-12-11T04:31:18.115Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Double Strike",
+  "handSize": 7
+}
+[2024-12-11T04:31:18.115Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T04:31:18.115Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T04:31:18.115Z] [DEBUG] Shuffled player order
+{
+  "playerOrder": [
+    "713221346863087666",
+    "398285502341578775"
+  ]
+}
+[2024-12-11T04:31:21.365Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "remainingCards": 7
+}
+[2024-12-11T04:31:21.365Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:31:21.366Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "handSize": 8
+}
+[2024-12-11T04:31:21.366Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "newHandSize": 8
+}
+[2024-12-11T04:31:21.462Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:31:21.463Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:31:23.720Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:31:23.721Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:31:25.016Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T04:31:25.017Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 2,
+  "card": {
+    "id": 28,
+    "name": "Soul Link",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "DRAIN",
+        "value": 20
+      }
+    ],
+    "description": "Drain 20 HP and heal previous player for 10",
+    "imageUrl": "soul-link.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:31:25.018Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "remainingCards": 7
+}
+[2024-12-11T04:31:25.018Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "remainingCards": 7
+}
+[2024-12-11T04:31:25.019Z] [DEBUG] Applying card effects
+{
+  "cardName": "Soul Link",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:31:25.019Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 20,
+  "remainingHealth": 180
+}
+[2024-12-11T04:31:25.019Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 220
+}
+[2024-12-11T04:31:25.020Z] [DEBUG] Drain effect applied
+{
+  "damageDealt": 20,
+  "healthRestored": 20,
+  "targetId": "398285502341578775",
+  "targetHealth": 180,
+  "playerId": "713221346863087666",
+  "playerHealth": 220
+}
+[2024-12-11T04:31:25.020Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T04:31:25.020Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T04:31:25.020Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:31:25.020Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Soul Link!\n🌙 Drained 20 health from purple_memer, restoring 20 health to yourself!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:31:26.474Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:31:42.708Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:31:42.709Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:31:42.710Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "handSize": 8
+}
+[2024-12-11T04:31:42.710Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "newHandSize": 8
+}
+[2024-12-11T04:31:46.145Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:31:46.145Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 17,
+    "name": "Life Drain",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "DRAIN",
+        "value": 25
+      }
+    ],
+    "description": "Drain 25 HP from target",
+    "imageUrl": "life-drain.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:31:46.145Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "remainingCards": 7
+}
+[2024-12-11T04:31:46.146Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Life Drain",
+  "remainingCards": 7
+}
+[2024-12-11T04:31:46.146Z] [DEBUG] Applying card effects
+{
+  "cardName": "Life Drain",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:31:46.146Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 195
+}
+[2024-12-11T04:31:46.146Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 25,
+  "newHealth": 205
+}
+[2024-12-11T04:31:46.146Z] [DEBUG] Drain effect applied
+{
+  "damageDealt": 25,
+  "healthRestored": 25,
+  "targetId": "713221346863087666",
+  "targetHealth": 195,
+  "playerId": "398285502341578775",
+  "playerHealth": 205
+}
+[2024-12-11T04:31:46.146Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:31:46.147Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:31:46.147Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:31:46.147Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Life Drain!\n🌙 Drained 25 health from blackmanofsteal, restoring 25 health to yourself!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:31:47.337Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:32:00.583Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:32:00.583Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:32:06.020Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T04:32:06.021Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 1,
+  "card": {
+    "id": 3,
+    "name": "Radiant Blow",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 15
+      },
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Deal 15 damage and recover 20 HP",
+    "imageUrl": "radiant-blow.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:32:06.021Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:32:06.021Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:32:06.021Z] [DEBUG] Applying card effects
+{
+  "cardName": "Radiant Blow",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:32:06.021Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 15,
+  "remainingHealth": 190
+}
+[2024-12-11T04:32:06.022Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 15
+  },
+  "targetHealth": 190
+}
+[2024-12-11T04:32:06.022Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 215
+}
+[2024-12-11T04:32:06.022Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 215
+}
+[2024-12-11T04:32:06.022Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Divine Blessing",
+  "handSize": 8
+}
+[2024-12-11T04:32:06.022Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Divine Blessing",
+  "handSize": 8
+}
+[2024-12-11T04:32:06.023Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:32:06.023Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Radiant Blow!\n🗡️ Dealt 15 damage to purple_memer!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:32:06.749Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:32:12.172Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:32:12.173Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:32:32.131Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "remainingCards": 7
+}
+[2024-12-11T04:32:32.132Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:32:32.132Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "handSize": 8
+}
+[2024-12-11T04:32:32.132Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "newHandSize": 8
+}
+[2024-12-11T04:32:47.072Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "Vampire",
+    "Strike"
+  ]
+}
+[2024-12-11T04:32:56.599Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:32:56.599Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 1,
+    "name": "Vampire Strike",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 20
+      },
+      {
+        "type": "HEAL",
+        "value": 15
+      }
+    ],
+    "description": "Deal 20 damage and recover 15 HP",
+    "imageUrl": "vampire-strike.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:32:56.599Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:32:56.600Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Vampire Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:32:56.600Z] [DEBUG] Applying card effects
+{
+  "cardName": "Vampire Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:32:56.600Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 20,
+  "remainingHealth": 195
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 20
+  },
+  "targetHealth": 195
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 15,
+  "newHealth": 205
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Applied healing effect
+{
+  "healing": 15,
+  "playerHealth": 205
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "handSize": 8
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "handSize": 8
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:32:56.601Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Vampire Strike!\n🗡️ Dealt 20 damage to blackmanofsteal!\n💚 Healed for 15 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:32:58.273Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:33:00.302Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:33:00.303Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:33:35.713Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 14,
+    "name": "Divine Blessing",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 30
+      },
+      {
+        "type": "IMMUNITY",
+        "value": 1
+      }
+    ],
+    "description": "Recover 30 HP and gain immunity for 1 turn",
+    "imageUrl": "divine-blessing.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Applying card effects
+{
+  "cardName": "Divine Blessing",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 30,
+  "newHealth": 225
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Applied healing effect
+{
+  "healing": 30,
+  "playerHealth": 225
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Effect added to player
+{
+  "playerId": "713221346863087666",
+  "effect": "IMMUNITY"
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:33:35.714Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Divine Blessing!\n💚 Healed for 30 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:33:36.845Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:34:18.925Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:34:18.926Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:34:42.240Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "remainingCards": 7
+}
+[2024-12-11T04:34:42.241Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:34:42.241Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "handSize": 8
+}
+[2024-12-11T04:34:42.242Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "newHandSize": 8
+}
+[2024-12-11T04:34:46.166Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:34:46.166Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 8,
+    "name": "Meteor Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 50
+      }
+    ],
+    "description": "Deal 50 damage",
+    "imageUrl": "meteor-strike.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:34:46.167Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:34:46.167Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:34:46.167Z] [DEBUG] Applying card effects
+{
+  "cardName": "Meteor Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:34:46.167Z] [DEBUG] Damage blocked by immunity
+{
+  "playerId": "713221346863087666",
+  "damageAmount": 50
+}
+[2024-12-11T04:34:46.167Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T04:34:46.168Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T04:34:46.168Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:34:46.168Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Meteor Strike!\n🛡️ blackmanofsteal blocked all damage with IMMUNITY!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:34:47.367Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:34:59.162Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:34:59.163Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:35:07.086Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:35:07.086Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 5,
+  "card": {
+    "id": 7,
+    "name": "Inferno Blast",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 45
+      }
+    ],
+    "description": "Deal 45 damage",
+    "imageUrl": "inferno-blast.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:35:07.087Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T04:35:07.087Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T04:35:07.087Z] [DEBUG] Applying card effects
+{
+  "cardName": "Inferno Blast",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:35:07.087Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 45,
+  "remainingHealth": 160
+}
+[2024-12-11T04:35:07.088Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 45
+  },
+  "targetHealth": 160
+}
+[2024-12-11T04:35:07.088Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:35:07.088Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:35:07.088Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:35:07.088Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Inferno Blast!\n🗡️ Dealt 45 damage to purple_memer!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:35:08.800Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:37:11.349Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "remainingCards": 7
+}
+[2024-12-11T04:37:11.349Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Greater Heal",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:37:11.349Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Mirror Shield",
+  "handSize": 8
+}
+[2024-12-11T04:37:11.350Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Mirror Shield",
+  "newHandSize": 8
+}
+[2024-12-11T04:37:45.971Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:37:45.972Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 19,
+    "name": "Mirror Shield",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "REFLECT",
+        "value": 1
+      }
+    ],
+    "description": "Reflect next attack back to attacker",
+    "imageUrl": "mirror-shield.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:37:45.972Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Mirror Shield",
+  "remainingCards": 7
+}
+[2024-12-11T04:37:45.973Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Mirror Shield",
+  "remainingCards": 7
+}
+[2024-12-11T04:37:45.973Z] [DEBUG] Applying card effects
+{
+  "cardName": "Mirror Shield",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:37:45.973Z] [DEBUG] Effect added to player
+{
+  "playerId": "398285502341578775",
+  "effect": "REFLECT"
+}
+[2024-12-11T04:37:45.973Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T04:37:45.973Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T04:37:45.973Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:37:45.974Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Mirror Shield!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:37:47.322Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:37:55.299Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:37:55.300Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:38:00.301Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T04:38:00.301Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 3,
+    "name": "Radiant Blow",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 15
+      },
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Deal 15 damage and recover 20 HP",
+    "imageUrl": "radiant-blow.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:38:00.302Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:00.302Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:00.302Z] [DEBUG] Applying card effects
+{
+  "cardName": "Radiant Blow",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:38:00.302Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 15,
+  "remainingHealth": 210
+}
+[2024-12-11T04:38:00.303Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 230
+}
+[2024-12-11T04:38:00.303Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 230
+}
+[2024-12-11T04:38:00.303Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:38:00.303Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:38:00.303Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:38:00.303Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Radiant Blow!\n🛡️🗡️ purple_memer reflected 15 damage back to blackmanofsteal!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:38:02.008Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:38:46.173Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:38:46.174Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:38:46.486Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:46.486Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:38:46.486Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "handSize": 8
+}
+[2024-12-11T04:38:46.487Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "newHandSize": 8
+}
+[2024-12-11T04:38:50.848Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:38:50.848Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 20,
+    "name": "Energy Boost",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "BOOST_NEXT",
+        "value": 15,
+        "boost": "ATTACK"
+      }
+    ],
+    "description": "Boost next attack by 15 damage",
+    "imageUrl": "energy-boost.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:38:50.849Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:50.849Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Energy Boost",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:50.849Z] [DEBUG] Applying card effects
+{
+  "cardName": "Energy Boost",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:38:50.849Z] [DEBUG] Damage boost applied
+{
+  "playerId": "398285502341578775",
+  "boostAmount": 15
+}
+[2024-12-11T04:38:50.850Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T04:38:50.850Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T04:38:50.850Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:38:50.851Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Energy Boost!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:38:52.784Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:38:56.565Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:38:56.566Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 5,
+  "card": {
+    "id": 12,
+    "name": "Greater Heal",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 35
+      }
+    ],
+    "description": "Recover 35 HP",
+    "imageUrl": "greater-heal.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:38:56.566Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:56.567Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "remainingCards": 7
+}
+[2024-12-11T04:38:56.567Z] [DEBUG] Applying card effects
+{
+  "cardName": "Greater Heal",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:38:56.567Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 35,
+  "newHealth": 265
+}
+[2024-12-11T04:38:56.567Z] [DEBUG] Applied healing effect
+{
+  "healing": 35,
+  "playerHealth": 265
+}
+[2024-12-11T04:38:56.567Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Vampire Strike",
+  "handSize": 8
+}
+[2024-12-11T04:38:56.568Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Vampire Strike",
+  "handSize": 8
+}
+[2024-12-11T04:38:56.568Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:38:56.568Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Greater Heal!\n💚 Healed for 35 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:38:57.742Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:39:04.842Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:39:04.843Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:39:27.242Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "remainingCards": 7
+}
+[2024-12-11T04:39:27.242Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:39:27.242Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "handSize": 8
+}
+[2024-12-11T04:39:27.243Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "newHandSize": 8
+}
+[2024-12-11T04:40:01.090Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:40:01.092Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:40:17.224Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:40:17.225Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 8,
+    "name": "Meteor Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 50
+      }
+    ],
+    "description": "Deal 50 damage",
+    "imageUrl": "meteor-strike.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:40:17.225Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:40:17.225Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "remainingCards": 7
+}
+[2024-12-11T04:40:17.225Z] [DEBUG] Applying card effects
+{
+  "cardName": "Meteor Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:40:17.226Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 50,
+  "remainingHealth": 215
+}
+[2024-12-11T04:40:17.226Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 50
+  },
+  "targetHealth": 215
+}
+[2024-12-11T04:40:17.226Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Time Warp",
+  "handSize": 8
+}
+[2024-12-11T04:40:17.226Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Time Warp",
+  "handSize": 8
+}
+[2024-12-11T04:40:17.226Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:40:17.226Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Meteor Strike!\n🗡️ Dealt 50 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:40:18.734Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:40:59.494Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Time Warp",
+  "remainingCards": 7
+}
+[2024-12-11T04:40:59.495Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Time Warp",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:40:59.495Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chaos Surge",
+  "handSize": 8
+}
+[2024-12-11T04:40:59.495Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chaos Surge",
+  "newHandSize": 8
+}
+[2024-12-11T04:41:15.685Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:41:15.685Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 3,
+  "card": {
+    "id": 10,
+    "name": "Ice Shard",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "WEAKEN",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and weaken next attack by 10",
+    "imageUrl": "ice-shard.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:41:15.686Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T04:41:15.686Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T04:41:15.686Z] [DEBUG] Applying card effects
+{
+  "cardName": "Ice Shard",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:41:15.686Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 190
+}
+[2024-12-11T04:41:15.686Z] [DEBUG] Effect added to player
+{
+  "playerId": "398285502341578775",
+  "effect": "WEAKENED"
+}
+[2024-12-11T04:41:15.686Z] [DEBUG] Applied weaken effect
+{
+  "value": 10,
+  "target": "398285502341578775"
+}
+[2024-12-11T04:41:15.687Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "handSize": 8
+}
+[2024-12-11T04:41:15.687Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "handSize": 8
+}
+[2024-12-11T04:41:15.687Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:41:15.687Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Ice Shard!\n🛡️🗡️ purple_memer reflected 25 damage back to blackmanofsteal!\n🔱 Weakened purple_memer's next attack!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:41:17.762Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:41:33.418Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:41:33.420Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:41:36.895Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:41:36.896Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:41:46.509Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:41:46.510Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 21,
+    "name": "Chaos Surge",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 50
+      },
+      {
+        "type": "SELF_DAMAGE",
+        "value": 20
+      }
+    ],
+    "description": "Deal 50 damage but take 20 damage yourself",
+    "imageUrl": "chaos-surge.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:41:46.510Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chaos Surge",
+  "remainingCards": 7
+}
+[2024-12-11T04:41:46.510Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chaos Surge",
+  "remainingCards": 7
+}
+[2024-12-11T04:41:46.510Z] [DEBUG] Applying card effects
+{
+  "cardName": "Chaos Surge",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:41:46.510Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 50,
+  "remainingHealth": 140
+}
+[2024-12-11T04:41:46.511Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 50
+  },
+  "targetHealth": 140
+}
+[2024-12-11T04:41:46.511Z] [DEBUG] Applied Self damage effect
+{
+  "targetHealth": 140
+}
+[2024-12-11T04:41:46.511Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 8
+}
+[2024-12-11T04:41:46.511Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 8
+}
+[2024-12-11T04:41:46.511Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:41:46.511Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Chaos Surge!\n🗡️ Dealt 50 damage to blackmanofsteal!\n🗡️ Dealt undefined damage to yourself!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:41:48.043Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:42:41.562Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:42:41.562Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:42:41.563Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "handSize": 8
+}
+[2024-12-11T04:42:41.563Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "newHandSize": 8
+}
+[2024-12-11T04:42:55.936Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T04:42:55.936Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 2,
+  "card": {
+    "id": 2,
+    "name": "Blazing Slash",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "HEAL",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and recover 10 HP",
+    "imageUrl": "blazing-slash.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:42:55.937Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T04:42:55.937Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T04:42:55.937Z] [DEBUG] Applying card effects
+{
+  "cardName": "Blazing Slash",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:42:55.938Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 115
+}
+[2024-12-11T04:42:55.938Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 10,
+  "newHealth": 125
+}
+[2024-12-11T04:42:55.938Z] [DEBUG] Applied healing effect
+{
+  "healing": 10,
+  "playerHealth": 125
+}
+[2024-12-11T04:42:55.938Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Shadow Fang",
+  "handSize": 8
+}
+[2024-12-11T04:42:55.938Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Shadow Fang",
+  "handSize": 8
+}
+[2024-12-11T04:42:55.938Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:42:55.939Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Blazing Slash!\n🛡️🗡️ purple_memer reflected 25 damage back to blackmanofsteal!\n💚 Healed for 10 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:42:57.766Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:43:03.195Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:43:03.196Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:43:37.657Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:43:37.657Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 22,
+    "name": "Health Exchange",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "SWAP_HEALTH",
+        "value": 1
+      }
+    ],
+    "description": "Swap HP with target",
+    "imageUrl": "health-exchange.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:43:37.658Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "remainingCards": 7
+}
+[2024-12-11T04:43:37.658Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "remainingCards": 7
+}
+[2024-12-11T04:43:37.658Z] [DEBUG] Applying card effects
+{
+  "cardName": "Health Exchange",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:43:37.659Z] [DEBUG] Applied swapHealth effect
+{
+  "value": 1,
+  "target": "713221346863087666"
+}
+[2024-12-11T04:43:37.659Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shadow Fang",
+  "handSize": 8
+}
+[2024-12-11T04:43:37.659Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shadow Fang",
+  "handSize": 8
+}
+[2024-12-11T04:43:37.659Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:43:37.659Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Health Exchange!\n🔄 Swapped health! purple_memer now has 125 health, while blackmanofsteal now has 160 health.",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:43:39.223Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:43:52.170Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:43:52.171Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:44:11.497Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T04:44:11.498Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 24,
+    "name": "Dark Pact",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 40
+      },
+      {
+        "type": "SELF_DAMAGE",
+        "value": 10
+      }
+    ],
+    "description": "Deal 40 damage, take 10 damage",
+    "imageUrl": "dark-pact.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:44:11.498Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "remainingCards": 7
+}
+[2024-12-11T04:44:11.498Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "remainingCards": 7
+}
+[2024-12-11T04:44:11.499Z] [DEBUG] Applying card effects
+{
+  "cardName": "Dark Pact",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:44:11.499Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 40,
+  "remainingHealth": 120
+}
+[2024-12-11T04:44:11.499Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 10,
+  "remainingHealth": 110
+}
+[2024-12-11T04:44:11.499Z] [DEBUG] Applied Self damage effect
+{
+  "damage": 10,
+  "targetHealth": 125
+}
+[2024-12-11T04:44:11.499Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:44:11.499Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:44:11.500Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:44:11.500Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Dark Pact!\n🛡️🗡️ purple_memer reflected 40 damage back to blackmanofsteal!\n🗡️ Dealt 10 damage to yourself!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:44:13.041Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:44:35.683Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T04:44:35.684Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T04:44:42.758Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "6"
+  ]
+}
+[2024-12-11T04:44:42.758Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 5,
+  "card": {
+    "id": 27,
+    "name": "Chain Lightning",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 30
+      },
+      {
+        "type": "MULTI_TARGET",
+        "value": 15,
+        "DamageNextRound": true,
+        "damageReason": "{playerName} Chain Lightning strikes, dealing {damage} damage to {target}!"
+      }
+    ],
+    "description": "Deal 30 damage to target and 15 to next player",
+    "imageUrl": "chain-lightning.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:44:42.758Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "remainingCards": 7
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "remainingCards": 7
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Applying card effects
+{
+  "cardName": "Chain Lightning",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 30,
+  "remainingHealth": 80
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 30
+  },
+  "targetHealth": 80
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T04:44:42.759Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:44:42.760Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Chain Lightning!\n🗡️ Dealt 30 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:44:44.383Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:44:49.903Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:44:49.904Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:44:55.880Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-11T04:44:55.881Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 4,
+  "card": {
+    "id": 3,
+    "name": "Radiant Blow",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 15
+      },
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Deal 15 damage and recover 20 HP",
+    "imageUrl": "radiant-blow.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:44:55.881Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:44:55.881Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T04:44:55.881Z] [DEBUG] Applying card effects
+{
+  "cardName": "Radiant Blow",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:44:55.881Z] [DEBUG] Multi Target Damaged applied
+{
+  "newHealth": 125
+}
+[2024-12-11T04:44:55.882Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 15,
+  "remainingHealth": 65
+}
+[2024-12-11T04:44:55.882Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 85
+}
+[2024-12-11T04:44:55.882Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 85
+}
+[2024-12-11T04:44:55.882Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:44:55.882Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:44:55.882Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:44:55.883Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Radiant Blow!\n🔥 purple_memer's Chain Lightning strikes, dealing undefined damage to purple_memer!!\n🛡️🗡️ purple_memer reflected 15 damage back to blackmanofsteal!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:44:57.452Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:45:43.768Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:45:43.769Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:51:07.005Z] [DEBUG] Creating directory structure
+{
+  "baseDir": "/Users/saikumar/coc/public/images/cards",
+  "categories": [
+    "attack",
+    "heal",
+    "hybrid",
+    "special",
+    "chaos"
+  ]
+}
+[2024-12-11T04:51:12.781Z] [DEBUG] Game instance created
+{
+  "channelId": "1274954222009450508"
+}
+[2024-12-11T04:51:12.781Z] [DEBUG] Player instance created
+{
+  "userId": "398285502341578775",
+  "startingHealth": 200
+}
+[2024-12-11T04:51:12.781Z] [DEBUG] Player added to game
+{
+  "playerId": "398285502341578775",
+  "playerCount": 1
+}
+[2024-12-11T04:51:44.730Z] [DEBUG] Player instance created
+{
+  "userId": "713221346863087666",
+  "startingHealth": 200
+}
+[2024-12-11T04:51:44.731Z] [DEBUG] Player added to game
+{
+  "playerId": "713221346863087666",
+  "playerCount": 2
+}
+[2024-12-11T04:54:52.221Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "handSize": 1
+}
+[2024-12-11T04:54:52.222Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "handSize": 1
+}
+[2024-12-11T04:54:52.222Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "handSize": 2
+}
+[2024-12-11T04:54:52.222Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "handSize": 2
+}
+[2024-12-11T04:54:52.222Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 3
+}
+[2024-12-11T04:54:52.222Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 3
+}
+[2024-12-11T04:54:52.223Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 4
+}
+[2024-12-11T04:54:52.223Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 4
+}
+[2024-12-11T04:54:52.223Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "handSize": 5
+}
+[2024-12-11T04:54:52.223Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "handSize": 5
+}
+[2024-12-11T04:54:52.223Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 6
+}
+[2024-12-11T04:54:52.223Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 6
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 7
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "handSize": 7
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "l",
+  "handSize": 8
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Dealt card to player
+{
+  "playerId": "398285502341578775",
+  "cardName": "l",
+  "handSize": 8
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "l",
+  "handSize": 1
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "l",
+  "handSize": 1
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 2
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 2
+}
+[2024-12-11T04:54:52.224Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 3
+}
+[2024-12-11T04:54:52.225Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 3
+}
+[2024-12-11T04:54:52.225Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "handSize": 4
+}
+[2024-12-11T04:54:52.225Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "handSize": 4
+}
+[2024-12-11T04:54:52.225Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "handSize": 5
+}
+[2024-12-11T04:54:52.225Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "handSize": 5
+}
+[2024-12-11T04:54:52.225Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 6
+}
+[2024-12-11T04:54:52.226Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 6
+}
+[2024-12-11T04:54:52.226Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 7
+}
+[2024-12-11T04:54:52.226Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 7
+}
+[2024-12-11T04:54:52.226Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Balance",
+  "handSize": 8
+}
+[2024-12-11T04:54:52.226Z] [DEBUG] Dealt card to player
+{
+  "playerId": "713221346863087666",
+  "cardName": "Balance",
+  "handSize": 8
+}
+[2024-12-11T04:54:52.226Z] [DEBUG] Shuffled player order
+{
+  "playerOrder": [
+    "398285502341578775",
+    "713221346863087666"
+  ]
+}
+[2024-12-11T04:54:54.779Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:54:54.779Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:54:55.367Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "l",
+  "remainingCards": 7
+}
+[2024-12-11T04:54:55.367Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "l",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:54:55.368Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "handSize": 8
+}
+[2024-12-11T04:54:55.368Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "newHandSize": 8
+}
+[2024-12-11T04:55:00.003Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:55:00.003Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 14,
+    "name": "Divine Blessing",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 30
+      },
+      {
+        "type": "IMMUNITY",
+        "value": 1
+      }
+    ],
+    "description": "Recover 30 HP and gain immunity for 1 turn",
+    "imageUrl": "divine-blessing.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:55:00.004Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:00.004Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:00.005Z] [DEBUG] Applying card effects
+{
+  "cardName": "Divine Blessing",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:55:00.005Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 30,
+  "newHealth": 230
+}
+[2024-12-11T04:55:00.005Z] [DEBUG] Applied healing effect
+{
+  "healing": 30,
+  "playerHealth": 230
+}
+[2024-12-11T04:55:00.005Z] [DEBUG] Effect added to player
+{
+  "playerId": "398285502341578775",
+  "effect": "IMMUNITY"
+}
+[2024-12-11T04:55:00.006Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shield Wall",
+  "handSize": 8
+}
+[2024-12-11T04:55:00.006Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Shield Wall",
+  "handSize": 8
+}
+[2024-12-11T04:55:00.006Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:55:00.006Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Divine Blessing!\n💚 Healed for 30 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:55:01.374Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:55:03.984Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:55:03.985Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:55:08.247Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T04:55:08.247Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 15,
+    "name": "Nature's Touch",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Recover 20 HP and draw a card",
+    "imageUrl": "natures-touch.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T04:55:08.248Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:08.248Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:08.248Z] [DEBUG] Applying card effects
+{
+  "cardName": "Nature's Touch",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:55:08.248Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 220
+}
+[2024-12-11T04:55:08.249Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 220
+}
+[2024-12-11T04:55:08.249Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:55:08.249Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "handSize": 8
+}
+[2024-12-11T04:55:08.249Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:55:08.249Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Nature's Touch!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:55:09.602Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:55:17.061Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:55:17.064Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:55:19.968Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:19.969Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:55:19.969Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "handSize": 8
+}
+[2024-12-11T04:55:19.969Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "newHandSize": 8
+}
+[2024-12-11T04:55:23.038Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:55:23.039Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 14,
+    "name": "Divine Blessing",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 30
+      },
+      {
+        "type": "IMMUNITY",
+        "value": 1
+      }
+    ],
+    "description": "Recover 30 HP and gain immunity for 1 turn",
+    "imageUrl": "divine-blessing.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:55:23.039Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:23.039Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:23.039Z] [DEBUG] Applying card effects
+{
+  "cardName": "Divine Blessing",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 30,
+  "newHealth": 260
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Applied healing effect
+{
+  "healing": 30,
+  "playerHealth": 260
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Effect added to player
+{
+  "playerId": "398285502341578775",
+  "effect": "IMMUNITY"
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:55:23.040Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Divine Blessing!\n💚 Healed for 30 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:55:24.372Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:55:30.516Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:55:30.516Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 3,
+  "card": {
+    "id": 7,
+    "name": "Inferno Blast",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 45
+      }
+    ],
+    "description": "Deal 45 damage",
+    "imageUrl": "inferno-blast.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:55:30.517Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:30.517Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T04:55:30.517Z] [DEBUG] Applying card effects
+{
+  "cardName": "Inferno Blast",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:55:30.518Z] [DEBUG] Damage blocked by immunity
+{
+  "playerId": "398285502341578775",
+  "damageAmount": 45
+}
+[2024-12-11T04:55:30.518Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "handSize": 8
+}
+[2024-12-11T04:55:30.518Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "handSize": 8
+}
+[2024-12-11T04:55:30.518Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:55:30.518Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Inferno Blast!\n🛡️ purple_memer blocked all damage with IMMUNITY!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:55:32.104Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:55:35.038Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:55:35.039Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:57:55.156Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-11T04:57:55.156Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 0,
+  "card": {
+    "id": 9,
+    "name": "Thunder Bolt",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 30
+      },
+      {
+        "type": "DISABLE_HEALING",
+        "value": 1
+      }
+    ],
+    "description": "Deal 30 damage and disable healing for 1 turn",
+    "imageUrl": "thunder-bolt.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:57:55.157Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "remainingCards": 7
+}
+[2024-12-11T04:57:55.157Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "remainingCards": 7
+}
+[2024-12-11T04:57:55.157Z] [DEBUG] Applying card effects
+{
+  "cardName": "Thunder Bolt",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:57:55.157Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 30,
+  "remainingHealth": 190
+}
+[2024-12-11T04:57:55.157Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 30
+  },
+  "targetHealth": 190
+}
+[2024-12-11T04:57:55.157Z] [DEBUG] Effect added to player
+{
+  "playerId": "713221346863087666",
+  "effect": "DISABLE_HEALING"
+}
+[2024-12-11T04:57:55.158Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T04:57:55.158Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T04:57:55.158Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:57:55.158Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Thunder Bolt!\n🗡️ Dealt 30 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:57:56.538Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:57:58.547Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:57:58.548Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:58:03.119Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:58:03.119Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 24,
+    "name": "Dark Pact",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 40
+      },
+      {
+        "type": "SELF_DAMAGE",
+        "value": 10
+      }
+    ],
+    "description": "Deal 40 damage, take 10 damage",
+    "imageUrl": "dark-pact.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:58:03.120Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "remainingCards": 7
+}
+[2024-12-11T04:58:03.120Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Dark Pact",
+  "remainingCards": 7
+}
+[2024-12-11T04:58:03.120Z] [DEBUG] Applying card effects
+{
+  "cardName": "Dark Pact",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:58:03.120Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 40,
+  "remainingHealth": 220
+}
+[2024-12-11T04:58:03.120Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 40
+  },
+  "targetHealth": 220
+}
+[2024-12-11T04:58:03.121Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 10,
+  "remainingHealth": 180
+}
+[2024-12-11T04:58:03.121Z] [DEBUG] Applied Self damage effect
+{
+  "damage": 10,
+  "targetHealth": 220
+}
+[2024-12-11T04:58:03.121Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "l",
+  "handSize": 8
+}
+[2024-12-11T04:58:03.121Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "l",
+  "handSize": 8
+}
+[2024-12-11T04:58:03.121Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:58:03.121Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Dark Pact!\n🗡️ Dealt 40 damage to purple_memer!\n🗡️ Dealt 10 damage to yourself!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:58:04.481Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T04:59:10.469Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T04:59:10.470Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "remainingHandSize": 7
+}
+[2024-12-11T04:59:10.470Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "handSize": 8
+}
+[2024-12-11T04:59:10.471Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "newHandSize": 8
+}
+[2024-12-11T04:59:14.360Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T04:59:14.360Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 14,
+    "name": "Divine Blessing",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 30
+      },
+      {
+        "type": "IMMUNITY",
+        "value": 1
+      }
+    ],
+    "description": "Recover 30 HP and gain immunity for 1 turn",
+    "imageUrl": "divine-blessing.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T04:59:14.360Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:59:14.361Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Divine Blessing",
+  "remainingCards": 7
+}
+[2024-12-11T04:59:14.361Z] [DEBUG] Applying card effects
+{
+  "cardName": "Divine Blessing",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T04:59:14.361Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 30,
+  "newHealth": 250
+}
+[2024-12-11T04:59:14.362Z] [DEBUG] Applied healing effect
+{
+  "healing": 30,
+  "playerHealth": 250
+}
+[2024-12-11T04:59:14.362Z] [DEBUG] Effect added to player
+{
+  "playerId": "398285502341578775",
+  "effect": "IMMUNITY"
+}
+[2024-12-11T04:59:14.362Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:59:14.362Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T04:59:14.362Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T04:59:14.362Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Divine Blessing!\n💚 Healed for 30 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T04:59:15.552Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T04:59:18.395Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T04:59:18.396Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T04:59:24.703Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T04:59:24.704Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 3,
+  "card": {
+    "id": 28,
+    "name": "Soul Link",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "DRAIN",
+        "value": 20
+      }
+    ],
+    "description": "Drain 20 HP and heal previous player for 10",
+    "imageUrl": "soul-link.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T04:59:24.705Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "remainingCards": 7
+}
+[2024-12-11T04:59:24.705Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Soul Link",
+  "remainingCards": 7
+}
+[2024-12-11T04:59:24.706Z] [DEBUG] Applying card effects
+{
+  "cardName": "Soul Link",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T04:59:24.706Z] [DEBUG] Damage blocked by immunity
+{
+  "playerId": "398285502341578775",
+  "damageAmount": 20
+}
+[2024-12-11T04:59:24.706Z] [DEBUG] Drain effect applied
+{
+  "drainResult": {
+    "damage": 0,
+    "immunity": true
+  },
+  "targetId": "398285502341578775",
+  "targetHealth": 250,
+  "playerId": "713221346863087666",
+  "playerHealth": 180
+}
+[2024-12-11T04:59:24.707Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:59:24.707Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T04:59:24.707Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T04:59:24.707Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Soul Link!\n🛡️ purple_memer blocked the drain with IMMUNITY!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T04:59:26.687Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:00:31.017Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "remainingCards": 7
+}
+[2024-12-11T05:00:31.017Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Holy Light",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:00:31.017Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Wild Magic",
+  "handSize": 8
+}
+[2024-12-11T05:00:31.018Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Wild Magic",
+  "newHandSize": 8
+}
+[2024-12-11T05:00:40.723Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:00:40.723Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 23,
+    "name": "Wild Magic",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "MASS_DAMAGE",
+        "value": 20
+      }
+    ],
+    "description": "Deal 20 damage to all players (including yourself)",
+    "imageUrl": "wild-magic.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:00:40.724Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Wild Magic",
+  "remainingCards": 7
+}
+[2024-12-11T05:00:40.724Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Wild Magic",
+  "remainingCards": 7
+}
+[2024-12-11T05:00:40.724Z] [DEBUG] Applying card effects
+{
+  "cardName": "Wild Magic",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:00:40.724Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 20,
+  "remainingHealth": 230
+}
+[2024-12-11T05:00:40.725Z] [DEBUG] Mass damage applied
+{
+  "playerId": "398285502341578775",
+  "damageDealt": 20,
+  "remainingHealth": 230
+}
+[2024-12-11T05:00:40.725Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 20,
+  "remainingHealth": 160
+}
+[2024-12-11T05:00:40.725Z] [DEBUG] Mass damage applied
+{
+  "playerId": "713221346863087666",
+  "damageDealt": 20,
+  "remainingHealth": 160
+}
+[2024-12-11T05:00:40.725Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:00:40.725Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:00:40.726Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:00:40.726Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Wild Magic!\n🔥 Mass Damage dealt 20 damage to all players! (Total damage: 40)",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:00:42.474Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:00:59.627Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:00:59.628Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:01:04.015Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:01:04.015Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 1,
+    "name": "l",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 20
+      },
+      {
+        "type": "HEAL",
+        "value": 15
+      }
+    ],
+    "description": "Deal 20 damage and recover 15 HP",
+    "imageUrl": "vampire-strike.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:01:04.015Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "l",
+  "remainingCards": 7
+}
+[2024-12-11T05:01:04.016Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "l",
+  "remainingCards": 7
+}
+[2024-12-11T05:01:04.016Z] [DEBUG] Applying card effects
+{
+  "cardName": "l",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:01:04.016Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 20,
+  "remainingHealth": 210
+}
+[2024-12-11T05:01:04.016Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 20
+  },
+  "targetHealth": 210
+}
+[2024-12-11T05:01:04.016Z] [DEBUG] Healing blocked by effect
+{
+  "playerId": "713221346863087666",
+  "healAmount": 15
+}
+[2024-12-11T05:01:04.017Z] [DEBUG] Applied healing effect
+{
+  "healing": 0,
+  "playerHealth": 160
+}
+[2024-12-11T05:01:04.017Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 8
+}
+[2024-12-11T05:01:04.017Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "handSize": 8
+}
+[2024-12-11T05:01:04.017Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:01:04.017Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played l!\n🗡️ Dealt 20 damage to purple_memer!\n💚 Healed for 0 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:01:05.669Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:01:57.996Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:01:57.997Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:02:07.082Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:02:07.083Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 10,
+    "name": "Ice Shard",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "WEAKEN",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and weaken next attack by 10",
+    "imageUrl": "ice-shard.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:02:07.083Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:07.083Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:07.083Z] [DEBUG] Applying card effects
+{
+  "cardName": "Ice Shard",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:02:07.083Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 135
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 25
+  },
+  "targetHealth": 135
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Effect added to player
+{
+  "playerId": "713221346863087666",
+  "effect": "WEAKENED"
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Applied weaken effect
+{
+  "value": 10,
+  "target": "713221346863087666"
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:02:07.084Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Ice Shard!\n🗡️ Dealt 25 damage to blackmanofsteal!\n🔱 Weakened blackmanofsteal's next attack!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:02:07.971Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:02:10.628Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:02:10.629Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:02:13.358Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:02:13.358Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 11,
+    "name": "Minor Heal",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 25
+      }
+    ],
+    "description": "Recover 25 HP",
+    "imageUrl": "minor-heal.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:02:13.359Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:13.359Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:13.359Z] [DEBUG] Applying card effects
+{
+  "cardName": "Minor Heal",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:02:13.359Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 25,
+  "newHealth": 160
+}
+[2024-12-11T05:02:13.359Z] [DEBUG] Applied healing effect
+{
+  "healing": 25,
+  "playerHealth": 160
+}
+[2024-12-11T05:02:13.360Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:02:13.360Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:02:13.360Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:02:13.360Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Minor Heal!\n💚 Healed for 25 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:02:14.631Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:02:50.956Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:50.957Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Minor Heal",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:02:50.957Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "handSize": 8
+}
+[2024-12-11T05:02:50.957Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "newHandSize": 8
+}
+[2024-12-11T05:02:55.960Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:02:55.960Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 22,
+    "name": "Health Exchange",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "SWAP_HEALTH",
+        "value": 1
+      }
+    ],
+    "description": "Swap HP with target",
+    "imageUrl": "health-exchange.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:02:55.960Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:55.960Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Health Exchange",
+  "remainingCards": 7
+}
+[2024-12-11T05:02:55.961Z] [DEBUG] Applying card effects
+{
+  "cardName": "Health Exchange",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:02:55.961Z] [DEBUG] Applied swapHealth effect
+{
+  "value": 1,
+  "target": "713221346863087666"
+}
+[2024-12-11T05:02:55.961Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:02:55.961Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:02:55.961Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:02:55.962Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Health Exchange!\n🔄 Swapped health! purple_memer now has 160 health, while blackmanofsteal now has 210 health.",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:02:57.289Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:03:06.295Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:03:06.296Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:03:11.666Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:03:11.667Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 27,
+    "name": "Chain Lightning",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 30
+      },
+      {
+        "type": "MULTI_TARGET",
+        "value": 15,
+        "DamageNextRound": true,
+        "damageReason": "{playerName} Chain Lightning strikes, dealing {damage} damage to {target}!"
+      }
+    ],
+    "description": "Deal 30 damage to target and 15 to next player",
+    "imageUrl": "chain-lightning.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T05:03:11.667Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:11.667Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Applying card effects
+{
+  "cardName": "Chain Lightning",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 30,
+  "remainingHealth": 130
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 30
+  },
+  "targetHealth": 130
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:03:11.668Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Chain Lightning!\n🗡️ Dealt 30 damage to purple_memer!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:03:12.453Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:03:28.008Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:28.008Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:03:28.008Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Dark Pact",
+  "handSize": 8
+}
+[2024-12-11T05:03:28.009Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Dark Pact",
+  "newHandSize": 8
+}
+[2024-12-11T05:03:32.707Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:03:32.707Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 24,
+    "name": "Dark Pact",
+    "type": "CHAOS",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 40
+      },
+      {
+        "type": "SELF_DAMAGE",
+        "value": 10
+      }
+    ],
+    "description": "Deal 40 damage, take 10 damage",
+    "imageUrl": "dark-pact.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:03:32.707Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Dark Pact",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:32.708Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Dark Pact",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:32.708Z] [DEBUG] Applying card effects
+{
+  "cardName": "Dark Pact",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:03:32.708Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 15,
+  "remainingHealth": 195
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Multi Target Damaged applied
+{
+  "damageDealt": 15,
+  "newHealth": 195
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 40,
+  "remainingHealth": 155
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 40
+  },
+  "targetHealth": 155
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 10,
+  "remainingHealth": 120
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Applied Self damage effect
+{
+  "damage": 10,
+  "targetHealth": 155
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:03:32.709Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:03:32.710Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:03:32.710Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Dark Pact!\n🔥 blackmanofsteal's Chain Lightning strikes, dealing 15 damage to blackmanofsteal!!\n🗡️ Dealt 40 damage to blackmanofsteal!\n🗡️ Dealt 10 damage to yourself!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:03:33.906Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:03:47.630Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:03:47.630Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:03:53.780Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:03:53.781Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 10,
+    "name": "Ice Shard",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "WEAKEN",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and weaken next attack by 10",
+    "imageUrl": "ice-shard.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:03:53.781Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:53.781Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:03:53.781Z] [DEBUG] Applying card effects
+{
+  "cardName": "Ice Shard",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:03:53.781Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 25,
+  "remainingHealth": 95
+}
+[2024-12-11T05:03:53.781Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 25
+  },
+  "targetHealth": 95
+}
+[2024-12-11T05:03:53.782Z] [DEBUG] Effect added to player
+{
+  "playerId": "398285502341578775",
+  "effect": "WEAKENED"
+}
+[2024-12-11T05:03:53.782Z] [DEBUG] Applied weaken effect
+{
+  "value": 10,
+  "target": "398285502341578775"
+}
+[2024-12-11T05:03:53.782Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:03:53.782Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:03:53.782Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:03:53.782Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Ice Shard!\n🗡️ Dealt 25 damage to purple_memer!\n🔱 Weakened purple_memer's next attack!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:03:55.538Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:04:05.471Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:04:05.472Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:04:13.764Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T05:04:13.764Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 2,
+  "card": {
+    "id": 6,
+    "name": "Lightning Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 35
+      }
+    ],
+    "description": "Deal 35 damage",
+    "imageUrl": "lightning-strike.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:04:13.765Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:04:13.765Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:04:13.765Z] [DEBUG] Applying card effects
+{
+  "cardName": "Lightning Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:04:13.765Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 35,
+  "remainingHealth": 120
+}
+[2024-12-11T05:04:13.765Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 35
+  },
+  "targetHealth": 120
+}
+[2024-12-11T05:04:13.765Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:04:13.766Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:04:13.766Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:04:13.766Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Lightning Strike!\n🗡️ Dealt 35 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:04:15.109Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:04:23.606Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:04:23.607Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:04:26.989Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-11T05:04:26.990Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 4,
+  "card": {
+    "id": 30,
+    "name": "Balance",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "MASS_HEAL",
+        "value": 15
+      },
+      {
+        "type": "MASS_DAMAGE",
+        "value": 15
+      }
+    ],
+    "description": "Deal 15 damage and heal all players for 15",
+    "imageUrl": "balance.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:04:26.990Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Balance",
+  "remainingCards": 7
+}
+[2024-12-11T05:04:26.990Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Balance",
+  "remainingCards": 7
+}
+[2024-12-11T05:04:26.991Z] [DEBUG] Applying card effects
+{
+  "cardName": "Balance",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:04:26.991Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 15,
+  "newHealth": 110
+}
+[2024-12-11T05:04:26.991Z] [DEBUG] Mass heal applied
+{
+  "playerId": "398285502341578775",
+  "healedAmount": 15,
+  "newHealth": 110
+}
+[2024-12-11T05:04:26.991Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 15,
+  "newHealth": 135
+}
+[2024-12-11T05:04:26.991Z] [DEBUG] Mass heal applied
+{
+  "playerId": "713221346863087666",
+  "healedAmount": 15,
+  "newHealth": 135
+}
+[2024-12-11T05:04:26.992Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 15,
+  "remainingHealth": 95
+}
+[2024-12-11T05:04:26.992Z] [DEBUG] Mass damage applied
+{
+  "playerId": "398285502341578775",
+  "damageDealt": 15,
+  "remainingHealth": 95
+}
+[2024-12-11T05:04:26.992Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 15,
+  "remainingHealth": 120
+}
+[2024-12-11T05:04:26.992Z] [DEBUG] Mass damage applied
+{
+  "playerId": "713221346863087666",
+  "damageDealt": 15,
+  "remainingHealth": 120
+}
+[2024-12-11T05:04:26.992Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 8
+}
+[2024-12-11T05:04:26.992Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 8
+}
+[2024-12-11T05:04:26.993Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:04:26.993Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Balance!\n✨ Mass Heal restored 15 HP to all players!\n🔥 Mass Damage dealt 15 damage to all players! (Total damage: 30)",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:04:28.865Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:05:31.316Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:05:31.318Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:05:37.027Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:05:37.027Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 6,
+    "name": "Lightning Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 35
+      }
+    ],
+    "description": "Deal 35 damage",
+    "imageUrl": "lightning-strike.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:05:37.027Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:05:37.027Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:05:37.027Z] [DEBUG] Applying card effects
+{
+  "cardName": "Lightning Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:05:37.028Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 35,
+  "remainingHealth": 85
+}
+[2024-12-11T05:05:37.028Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 35
+  },
+  "targetHealth": 85
+}
+[2024-12-11T05:05:37.028Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "handSize": 8
+}
+[2024-12-11T05:05:37.028Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Thunder Bolt",
+  "handSize": 8
+}
+[2024-12-11T05:05:37.028Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:05:37.028Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Lightning Strike!\n🗡️ Dealt 35 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:05:38.376Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:05:40.406Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:05:40.406Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:05:44.893Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:05:44.893Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 6,
+    "name": "Lightning Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 35
+      }
+    ],
+    "description": "Deal 35 damage",
+    "imageUrl": "lightning-strike.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:05:44.894Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:05:44.894Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:05:44.894Z] [DEBUG] Applying card effects
+{
+  "cardName": "Lightning Strike",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:05:44.894Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 35,
+  "remainingHealth": 60
+}
+[2024-12-11T05:05:44.894Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 35
+  },
+  "targetHealth": 60
+}
+[2024-12-11T05:05:44.895Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 8
+}
+[2024-12-11T05:05:44.895Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "handSize": 8
+}
+[2024-12-11T05:05:44.895Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:05:44.895Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Lightning Strike!\n🗡️ Dealt 35 damage to purple_memer!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:05:46.963Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:05:50.955Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:05:50.956Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:05:57.468Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:05:57.468Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:06:02.021Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T05:06:02.021Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 1,
+  "card": {
+    "id": 2,
+    "name": "Blazing Slash",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "HEAL",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and recover 10 HP",
+    "imageUrl": "blazing-slash.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:06:02.022Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:02.022Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:02.023Z] [DEBUG] Applying card effects
+{
+  "cardName": "Blazing Slash",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:06:02.023Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 60
+}
+[2024-12-11T05:06:02.023Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 25
+  },
+  "targetHealth": 60
+}
+[2024-12-11T05:06:02.024Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 10,
+  "newHealth": 70
+}
+[2024-12-11T05:06:02.024Z] [DEBUG] Applied healing effect
+{
+  "healing": 10,
+  "playerHealth": 70
+}
+[2024-12-11T05:06:02.024Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T05:06:02.024Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T05:06:02.024Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:06:02.024Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Blazing Slash!\n🗡️ Dealt 25 damage to blackmanofsteal!\n💚 Healed for 10 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:06:02.768Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:06:06.743Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:06:06.743Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:06:15.430Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "7"
+  ]
+}
+[2024-12-11T05:06:15.430Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 6,
+  "card": {
+    "id": 2,
+    "name": "Blazing Slash",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "HEAL",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and recover 10 HP",
+    "imageUrl": "blazing-slash.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:06:15.431Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:15.431Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:15.431Z] [DEBUG] Applying card effects
+{
+  "cardName": "Blazing Slash",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:06:15.431Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 25,
+  "remainingHealth": 45
+}
+[2024-12-11T05:06:15.431Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 25
+  },
+  "targetHealth": 45
+}
+[2024-12-11T05:06:15.432Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 10,
+  "newHealth": 70
+}
+[2024-12-11T05:06:15.432Z] [DEBUG] Applied healing effect
+{
+  "healing": 10,
+  "playerHealth": 70
+}
+[2024-12-11T05:06:15.432Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T05:06:15.432Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T05:06:15.432Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:06:15.433Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Blazing Slash!\n🗡️ Dealt 25 damage to purple_memer!\n💚 Healed for 10 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:06:17.192Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:06:22.094Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:06:22.096Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:06:25.872Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:06:25.873Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:06:31.811Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "1"
+  ]
+}
+[2024-12-11T05:06:31.811Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 0,
+  "card": {
+    "id": 3,
+    "name": "Radiant Blow",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 15
+      },
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Deal 15 damage and recover 20 HP",
+    "imageUrl": "radiant-blow.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Applying card effects
+{
+  "cardName": "Radiant Blow",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 15,
+  "remainingHealth": 55
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 15
+  },
+  "targetHealth": 55
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 20,
+  "newHealth": 65
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 65
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T05:06:31.812Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Inferno Blast",
+  "handSize": 8
+}
+[2024-12-11T05:06:31.813Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:06:31.813Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Radiant Blow!\n🗡️ Dealt 15 damage to blackmanofsteal!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:06:33.209Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:06:36.246Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:06:36.247Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:06:45.060Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 7,
+    "name": "Inferno Blast",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 45
+      }
+    ],
+    "description": "Deal 45 damage",
+    "imageUrl": "inferno-blast.png",
+    "rarity": "uncommon"
+  }
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Inferno Blast",
+  "remainingCards": 7
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Applying card effects
+{
+  "cardName": "Inferno Blast",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 45,
+  "remainingHealth": 20
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 45
+  },
+  "targetHealth": 20
+}
+[2024-12-11T05:06:45.061Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T05:06:45.062Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Greater Heal",
+  "handSize": 8
+}
+[2024-12-11T05:06:45.062Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:06:45.062Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Inferno Blast!\n🗡️ Dealt 45 damage to purple_memer!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:06:46.320Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:07:05.142Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:07:05.144Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:07:30.282Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:07:30.283Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:08:07.237Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:08:07.238Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:08:07.238Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:08:07.238Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "newHandSize": 8
+}
+[2024-12-11T05:08:11.117Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:08:11.117Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 6,
+    "name": "Lightning Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 35
+      }
+    ],
+    "description": "Deal 35 damage",
+    "imageUrl": "lightning-strike.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:08:11.118Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:08:11.118Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Lightning Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:08:11.118Z] [DEBUG] Applying card effects
+{
+  "cardName": "Lightning Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:08:11.118Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 35,
+  "remainingHealth": 20
+}
+[2024-12-11T05:08:11.119Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 35
+  },
+  "targetHealth": 20
+}
+[2024-12-11T05:08:11.119Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Soul Link",
+  "handSize": 8
+}
+[2024-12-11T05:08:11.120Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Soul Link",
+  "handSize": 8
+}
+[2024-12-11T05:08:11.120Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:08:11.120Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Lightning Strike!\n🗡️ Dealt 35 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:08:12.724Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:08:15.927Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:08:15.928Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:08:20.356Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "5"
+  ]
+}
+[2024-12-11T05:08:20.357Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 4,
+  "card": {
+    "id": 3,
+    "name": "Radiant Blow",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 15
+      },
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Deal 15 damage and recover 20 HP",
+    "imageUrl": "radiant-blow.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:08:20.357Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T05:08:20.358Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Radiant Blow",
+  "remainingCards": 7
+}
+[2024-12-11T05:08:20.358Z] [DEBUG] Applying card effects
+{
+  "cardName": "Radiant Blow",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:08:20.358Z] [DEBUG] Player took damage
+{
+  "playerId": "398285502341578775",
+  "damage": 15,
+  "remainingHealth": 5
+}
+[2024-12-11T05:08:20.358Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 15
+  },
+  "targetHealth": 5
+}
+[2024-12-11T05:08:20.358Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 40
+}
+[2024-12-11T05:08:20.358Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 40
+}
+[2024-12-11T05:08:20.359Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:08:20.359Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:08:20.359Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:08:20.359Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Radiant Blow!\n🗡️ Dealt 15 damage to purple_memer!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:08:22.040Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:08:32.426Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:08:32.427Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:08:42.853Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:08:42.853Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:08:57.444Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "remainingCards": 7
+}
+[2024-12-11T05:08:57.445Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:08:57.445Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "handSize": 8
+}
+[2024-12-11T05:08:57.445Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "newHandSize": 8
+}
+[2024-12-11T05:09:01.862Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:09:01.862Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 29,
+    "name": "Judgment",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "JUDGMENT",
+        "above": 400,
+        "below": 40
+      }
+    ],
+    "description": "Instantly defeat target if their HP is below 40 or above 400",
+    "imageUrl": "judgment.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:09:01.862Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "remainingCards": 7
+}
+[2024-12-11T05:09:01.862Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "remainingCards": 7
+}
+[2024-12-11T05:09:01.863Z] [DEBUG] Applying card effects
+{
+  "cardName": "Judgment",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:09:01.863Z] [DEBUG] Judgment effect didnt applied
+{
+  "targetId": "713221346863087666",
+  "targetHealth": 40
+}
+[2024-12-11T05:09:01.863Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:09:01.863Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "handSize": 8
+}
+[2024-12-11T05:09:01.863Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:09:01.863Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Judgment!\n⚖️ blackmanofsteal survived the judgment!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:09:03.441Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:09:07.699Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:09:07.700Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:09:38.377Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "4"
+  ]
+}
+[2024-12-11T05:09:38.378Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 3,
+  "card": {
+    "id": 11,
+    "name": "Minor Heal",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 25
+      }
+    ],
+    "description": "Recover 25 HP",
+    "imageUrl": "minor-heal.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:09:38.378Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:09:38.378Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:09:38.379Z] [DEBUG] Applying card effects
+{
+  "cardName": "Minor Heal",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:09:38.379Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 25,
+  "newHealth": 65
+}
+[2024-12-11T05:09:38.379Z] [DEBUG] Applied healing effect
+{
+  "healing": 25,
+  "playerHealth": 65
+}
+[2024-12-11T05:09:38.379Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:09:38.379Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:09:38.380Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:09:38.380Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Minor Heal!\n💚 Healed for 25 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:09:40.204Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:09:42.504Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:09:42.504Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:09:49.739Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:09:49.740Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:09:50.252Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:09:50.252Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 10,
+    "name": "Ice Shard",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "WEAKEN",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and weaken next attack by 10",
+    "imageUrl": "ice-shard.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Applying card effects
+{
+  "cardName": "Ice Shard",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 40
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 25
+  },
+  "targetHealth": 40
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Effect added to player
+{
+  "playerId": "713221346863087666",
+  "effect": "WEAKENED"
+}
+[2024-12-11T05:09:50.253Z] [DEBUG] Applied weaken effect
+{
+  "value": 10,
+  "target": "713221346863087666"
+}
+[2024-12-11T05:09:50.254Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:09:50.254Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "handSize": 8
+}
+[2024-12-11T05:09:50.254Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:09:50.254Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Ice Shard!\n🗡️ Dealt 25 damage to blackmanofsteal!\n🔱 Weakened blackmanofsteal's next attack!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:09:52.185Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:09:55.788Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:09:55.788Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:09:56.107Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:09:56.108Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:10:00.326Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "3"
+  ]
+}
+[2024-12-11T05:10:00.327Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 2,
+  "card": {
+    "id": 11,
+    "name": "Minor Heal",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 25
+      }
+    ],
+    "description": "Recover 25 HP",
+    "imageUrl": "minor-heal.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:10:00.327Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:00.327Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:00.328Z] [DEBUG] Applying card effects
+{
+  "cardName": "Minor Heal",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:10:00.328Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 25,
+  "newHealth": 65
+}
+[2024-12-11T05:10:00.328Z] [DEBUG] Applied healing effect
+{
+  "healing": 25,
+  "playerHealth": 65
+}
+[2024-12-11T05:10:00.328Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T05:10:00.328Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T05:10:00.329Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:10:00.329Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Minor Heal!\n💚 Healed for 25 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:10:01.627Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:10:36.676Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:36.676Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chain Lightning",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:10:36.676Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "handSize": 8
+}
+[2024-12-11T05:10:36.677Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "newHandSize": 8
+}
+[2024-12-11T05:10:43.849Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:10:43.849Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 2,
+    "name": "Blazing Slash",
+    "type": "HYBRID",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 25
+      },
+      {
+        "type": "HEAL",
+        "value": 10
+      }
+    ],
+    "description": "Deal 25 damage and recover 10 HP",
+    "imageUrl": "blazing-slash.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:10:43.849Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:43.850Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Blazing Slash",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:43.850Z] [DEBUG] Applying card effects
+{
+  "cardName": "Blazing Slash",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:10:43.850Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 25,
+  "remainingHealth": 40
+}
+[2024-12-11T05:10:43.850Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 25
+  },
+  "targetHealth": 40
+}
+[2024-12-11T05:10:43.851Z] [DEBUG] Player healed
+{
+  "playerId": "398285502341578775",
+  "healAmount": 10,
+  "newHealth": 15
+}
+[2024-12-11T05:10:43.851Z] [DEBUG] Applied healing effect
+{
+  "healing": 10,
+  "playerHealth": 15
+}
+[2024-12-11T05:10:43.851Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T05:10:43.851Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Nature's Touch",
+  "handSize": 8
+}
+[2024-12-11T05:10:43.851Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:10:43.851Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Blazing Slash!\n🗡️ Dealt 25 damage to blackmanofsteal!\n💚 Healed for 10 HP!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:10:45.600Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:10:47.582Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:10:47.582Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 8
+}
+[2024-12-11T05:10:47.807Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:10:47.808Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:10:53.256Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T05:10:53.256Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 1,
+  "card": {
+    "id": 11,
+    "name": "Minor Heal",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 25
+      }
+    ],
+    "description": "Recover 25 HP",
+    "imageUrl": "minor-heal.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Minor Heal",
+  "remainingCards": 7
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Applying card effects
+{
+  "cardName": "Minor Heal",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 25,
+  "newHealth": 65
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Applied healing effect
+{
+  "healing": 25,
+  "playerHealth": 65
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Lightning Strike",
+  "handSize": 8
+}
+[2024-12-11T05:10:53.257Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:10:53.258Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Minor Heal!\n💚 Healed for 25 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:10:54.708Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:11:22.411Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:22.412Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Ice Shard",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:11:22.413Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "handSize": 8
+}
+[2024-12-11T05:11:22.413Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "newHandSize": 8
+}
+[2024-12-11T05:11:27.182Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:11:27.183Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 8,
+    "name": "Meteor Strike",
+    "type": "ATTACK",
+    "effects": [
+      {
+        "type": "DAMAGE",
+        "value": 50
+      }
+    ],
+    "description": "Deal 50 damage",
+    "imageUrl": "meteor-strike.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:11:27.183Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:27.183Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Meteor Strike",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:27.184Z] [DEBUG] Applying card effects
+{
+  "cardName": "Meteor Strike",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:11:27.184Z] [DEBUG] Player took damage
+{
+  "playerId": "713221346863087666",
+  "damage": 50,
+  "remainingHealth": 15
+}
+[2024-12-11T05:11:27.184Z] [DEBUG] Applied damage effect
+{
+  "damage": {
+    "damage": 50
+  },
+  "targetHealth": 15
+}
+[2024-12-11T05:11:27.184Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chaos Surge",
+  "handSize": 8
+}
+[2024-12-11T05:11:27.184Z] [DEBUG] Drew new card
+{
+  "playerId": "398285502341578775",
+  "cardName": "Chaos Surge",
+  "handSize": 8
+}
+[2024-12-11T05:11:27.184Z] [DEBUG] Next turn
+{
+  "currentTurn": "713221346863087666"
+}
+[2024-12-11T05:11:27.185Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "purple_memer played Meteor Strike!\n🗡️ Dealt 50 damage to blackmanofsteal!",
+    "gameOver": false,
+    "nextTurn": "713221346863087666"
+  }
+}
+[2024-12-11T05:11:28.541Z] [DEBUG] Next turn
+{
+  "player": "blackmanofsteal"
+}
+[2024-12-11T05:11:32.013Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "blackmanofsteal",
+  "channel": "general"
+}
+[2024-12-11T05:11:32.013Z] [DEBUG] Showing cards to player
+{
+  "userId": "713221346863087666",
+  "cardCount": 8
+}
+[2024-12-11T05:11:41.055Z] [DEBUG] Play command received
+{
+  "user": "blackmanofsteal",
+  "args": [
+    "2"
+  ]
+}
+[2024-12-11T05:11:41.055Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 1,
+  "card": {
+    "id": 15,
+    "name": "Nature's Touch",
+    "type": "HEAL",
+    "effects": [
+      {
+        "type": "HEAL",
+        "value": 20
+      }
+    ],
+    "description": "Recover 20 HP and draw a card",
+    "imageUrl": "natures-touch.png",
+    "rarity": "common"
+  }
+}
+[2024-12-11T05:11:41.055Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:41.055Z] [DEBUG] Card removed from hand
+{
+  "playerId": "713221346863087666",
+  "cardName": "Nature's Touch",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Applying card effects
+{
+  "cardName": "Nature's Touch",
+  "playerId": "713221346863087666",
+  "targetId": "398285502341578775"
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Player healed
+{
+  "playerId": "713221346863087666",
+  "healAmount": 20,
+  "newHealth": 35
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Applied healing effect
+{
+  "healing": 20,
+  "playerHealth": 35
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Card drawn
+{
+  "playerId": "713221346863087666",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Drew new card
+{
+  "playerId": "713221346863087666",
+  "cardName": "Holy Light",
+  "handSize": 8
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Next turn
+{
+  "currentTurn": "398285502341578775"
+}
+[2024-12-11T05:11:41.056Z] [DEBUG] Card played successfully
+{
+  "result": {
+    "success": true,
+    "message": "blackmanofsteal played Nature's Touch!\n💚 Healed for 20 HP!",
+    "gameOver": false,
+    "nextTurn": "398285502341578775"
+  }
+}
+[2024-12-11T05:11:42.489Z] [DEBUG] Next turn
+{
+  "player": "purple_memer"
+}
+[2024-12-11T05:11:51.833Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Soul Link",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:51.833Z] [DEBUG] Random card removed
+{
+  "playerId": "398285502341578775",
+  "cardName": "Soul Link",
+  "remainingHandSize": 7
+}
+[2024-12-11T05:11:51.833Z] [DEBUG] Card drawn
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "handSize": 8
+}
+[2024-12-11T05:11:51.834Z] [DEBUG] Card added
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "newHandSize": 8
+}
+[2024-12-11T05:11:56.849Z] [DEBUG] Play command received
+{
+  "user": "purple_memer",
+  "args": [
+    "8"
+  ]
+}
+[2024-12-11T05:11:56.850Z] [DEBUG] Attempting to play card
+{
+  "cardIndex": 7,
+  "card": {
+    "id": 29,
+    "name": "Judgment",
+    "type": "SPECIAL",
+    "effects": [
+      {
+        "type": "JUDGMENT",
+        "above": 400,
+        "below": 40
+      }
+    ],
+    "description": "Instantly defeat target if their HP is below 40 or above 400",
+    "imageUrl": "judgment.png",
+    "rarity": "rare"
+  }
+}
+[2024-12-11T05:11:56.850Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:56.850Z] [DEBUG] Card removed from hand
+{
+  "playerId": "398285502341578775",
+  "cardName": "Judgment",
+  "remainingCards": 7
+}
+[2024-12-11T05:11:56.850Z] [DEBUG] Applying card effects
+{
+  "cardName": "Judgment",
+  "playerId": "398285502341578775",
+  "targetId": "713221346863087666"
+}
+[2024-12-11T05:12:12.624Z] [DEBUG] Button interaction received
+{
+  "customId": "view_cards",
+  "user": "purple_memer",
+  "channel": "general"
+}
+[2024-12-11T05:12:12.625Z] [DEBUG] Showing cards to player
+{
+  "userId": "398285502341578775",
+  "cardCount": 7
+}

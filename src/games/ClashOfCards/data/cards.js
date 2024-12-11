@@ -4,7 +4,7 @@ export const cards = [
   // Attack + Heal Cards (Hybrid)
   {
     id: 1,
-    name: "Vampire Strike",
+    name: "l",
     type: CardType.HYBRID,
     effects: [
       { type: EffectType.DAMAGE, value: 20 },
@@ -199,7 +199,7 @@ export const cards = [
   },
   {
     id: 19,
-    name: "Mirror Shield",
+    name: "l",
     type: CardType.SPECIAL,
     effects: [{ type: EffectType.REFLECT, value: 1 }],
     description: "Reflect next attack back to attacker",

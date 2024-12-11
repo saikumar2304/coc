@@ -42,3 +42,13 @@
 {}
 [2024-12-09T18:45:19.351Z] [ERROR] Not player's turn
 {}
+[2024-12-11T04:26:20.924Z] [ERROR] Not player's turn
+{}
+[2024-12-11T04:32:47.073Z] [ERROR] Invalid card index
+{}
+[2024-12-11T05:11:56.852Z] [ERROR] Error playing card
+{
+  "message": "oldHealth is not defined",
+  "stack": "ReferenceError: oldHealth is not defined\n    at Game.applyCardEffects (file:///Users/saikumar/coc/src/games/ClashOfCards/models/Game.js:233:15)\n    at Game.playCard (file:///Users/saikumar/coc/src/games/ClashOfCards/models/Game.js:121:25)\n    at Object.execute (file:///Users/saikumar/coc/src/games/ClashOfCards/commands/play.js:95:27)\n    at Client.<anonymous> (file:///Users/saikumar/coc/src/index.js:51:19)\n    at Client.emit (node:events:519:28)\n    at MessageCreateAction.handle (/Users/saikumar/coc/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)\n    at module.exports [as MESSAGE_CREATE] (/Users/saikumar/coc/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (/Users/saikumar/coc/node_modules/discord.js/src/client/websocket/WebSocketManager.js:348:31)\n    at WebSocketManager.<anonymous> (/Users/saikumar/coc/node_modules/discord.js/src/client/websocket/WebSocketManager.js:232:12)\n    at WebSocketManager.emit (/Users/saikumar/coc/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:287:31)",
+  "name": "ReferenceError"
+}
