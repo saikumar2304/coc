@@ -156,9 +156,16 @@ export class Player {
     }
   }
 
-  swapHealth(newHealth) {
-    const oldHealth = this.health;
-    this.health = newHealth;
-    return { oldHealth, updatedHealth: this.health };
+    swapHealth(newHealth) {
+      const oldHealth = this.health;
+      this.health = newHealth;
+
+
+  if (this.health <= 0) {
+        this.isAlive = false;
+        logger.info("Player defeated", { playerId: this.user.id });
+      }
+
+      return { oldHealth, updatedHealth: this.health };
   }
 }
